@@ -1,0 +1,39 @@
+# Against the Fraud Daily — Monday, November 9, 2026 (Transcript)
+
+- **Episode:** Against the Fraud Daily - Monday, November 9, 2026
+- **Published:** November 9, 2026, 7:36 AM CT (pilot episode)
+- **Duration:** 5 minutes 49 seconds
+- **Hosts:** Alex and Jordan
+- **Listen:** [Episode audio (MP3)](https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-df92d4c5-ba77-48ce-8fdc-d702e458529a.mp3)
+- **Feed:** [Against the Fraud Daily RSS](https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab)
+
+> All settlements discussed are allegations only; there has been no determination of liability.
+
+## Transcript
+
+Alex: Good morning, and welcome to the show. I'm Alex.
+Jordan: And I'm Jordan. This is a daily podcast for anyone who needs to understand whistleblower cases and government fraud in the United States — the cases, the False Claims Act, and the technology that finds the fraud and proves it.
+Alex: Every morning, three things. The case of the day, one practice note for attorneys, and the tech angle — how the fraud was actually found.
+Jordan: Let's start with the case of the day, and it is a cyber case. On November third, the Justice Department announced that ILC Dover and ILC Astrospace agreed to pay thirteen million dollars to resolve False Claims Act allegations over cybersecurity failures on contracts with the Army, the Missile Defense Agency, and NASA.
+Alex: The whistleblower was the insider who knew. Philip Root, the company's former director of cybersecurity, filed the qui tam suit in January of twenty twenty five. He receives two point three five million dollars of the settlement.
+Jordan: The alleged conduct ran from January twenty eighteen through October twenty twenty four, almost seven years. The allegation was not a hack. Nobody stole the data, and no breach was alleged. The companies are accused of submitting claims for payment while knowing they had not met the cybersecurity requirements in their contracts — missing or outdated system security plans, skipped NIST eight hundred seventeen one assessments, and controlled defense information stored with an outside cloud provider without the protections the contract required.
+Alex: And that is why this one matters for intake. Relator's counsel calls it the largest government cybersecurity fraud recovery to date under the Justice Department's Civil Cyber Fraud program. It was won on paperwork and representations, not on a breach. The claims are allegations only, and there has been no determination of liability.
+Jordan: Second case, same day, very different fraud theory. Also on November third, the Justice Department and the Equal Employment Opportunity Commission announced a two-part, roughly twenty nine point five million dollar settlement with Lockheed Martin.
+Alex: Twenty two million dollars to the United States under the False Claims Act, and about seven point five million dollars to more than one thousand employees under the employment settlement. The whistleblower is Tim Booher, a former Lockheed Martin vice president, who filed his qui tam action in July twenty twenty five in the Northern District of Texas. He receives four point four million dollars, plus interest.
+Jordan: The False Claims Act allegation is that Lockheed falsely certified, from twenty nineteen to the present, that it complied with the anti-discrimination requirements in its federal contracts, while running a bonus program the government says tied pay to race-based targets. Lockheed denies the allegations and admits no liability. The claims are allegations only.
+Alex: The Justice Department says this is its fourth False Claims Act settlement of this kind under the Civil Rights Fraud Initiative, which launched in May twenty twenty five. For attorneys, the pattern to watch is the pairing: a contract certification theory on the False Claims Act side, plus a separate employment resolution on the other side, in a single announcement.
+Jordan: Now the practice note, and the timing is tomorrow. November tenth was the date the second phase of the Cybersecurity Maturity Model Certification program, CMMC Phase Two, was supposed to take effect. It will pass as a non-event. The Department of War suspended Phase Two back on July thirteenth, pending a comprehensive review, and no restart date has been announced.
+Alex: What did not change matters more than what did. Phase One is still fully in force. Level One and Level Two self-assessments, the scores in the Supplier Performance Risk System, and the annual affirmations still apply. The contract clause DFARS two five two point two zero four dash seven zero one two is still in contracts, and NIST eight hundred seventeen one is still the standard for protecting Controlled Unclassified Information.
+Jordan: So the intake screen for this week is simple. Look for a self-assessed score that does not match reality, a system security plan that is missing or copied across systems it does not describe, controlled information in commercial cloud storage without the required protections, and a subcontractor that never assessed at all. And watch for the contractor who treated the July pause as a holiday from the underlying standard, rather than a reprieve from third-party certification only. The ILC Dover headline tells them the Justice Department is still paying attention.
+Alex: And the tech angle, to close. In both of today's cases, the technology story is not a sophisticated attack. It is the record the technology leaves behind.
+Jordan: In ILC Dover, it is the assessment trail: the scores a contractor files, the plans it keeps, and where the data actually sat. A former cyber director could compare the filed score against the real controls and see the gap. In Lockheed, it is the certification trail: the compliance statements a contractor makes every time it bids and bills, set against the program it actually ran.
+Alex: That is the shift attorneys should plan for. The fraud is increasingly found in the paperwork a system generates — scores, plans, certifications, and cloud logs — and the whistleblower is increasingly the person who watched those records being made. The tools that matter are data analytics, screening of self-assessments, and forensic review of what was filed versus what was done.
+Jordan: To recap. ILC Dover, thirteen million dollars, the largest civil cyber-fraud recovery yet, brought by a former cyber director, won on paperwork, not a hack. Lockheed Martin, about twenty nine point five million dollars, the fourth Civil Rights Fraud settlement of its kind, with a four point four million dollar award to the whistleblower. And tomorrow, the CMMC Phase Two deadline that is not a deadline — the obligations underneath it never paused.
+Alex: That's the show. We'll be back tomorrow morning with the newest case, one practice note, and the tech behind it. I'm Alex.
+Jordan: And I'm Jordan. Have a good day.
+
+## Sources
+
+- U.S. Department of Justice, Office of Public Affairs — [Defense and Aerospace Contractors ILC Dover and ILC Astrospace Agree to Pay $13M to Resolve Cybersecurity Fraud Allegations](https://www.justice.gov/opa/pr/defense-and-aerospace-contractors-ilc-dover-and-ilc-astrospace-agree-pay-13m-resolve) (Nov 3, 2026)
+- U.S. Department of Justice, U.S. Attorney's Office for the Northern District of Texas — [Lockheed Martin agrees to pay $29.5m to resolve alleged employment discrimination violations](https://www.justice.gov/usao-ndtx/pr/lockheed-martin-agrees-pay-295m-resolve-alleged-employment-discrimination-violations) (Nov 3, 2026)
+- U.S. Department of War — [Forging the Arsenal of Freedom: Department of War Suspends CMMC Phase II Requirements](https://business.defense.gov/Engage/News/Newsfeed-Repository/Article/4542563/forging-the-arsenal-of-freedom-department-of-war-suspends-cmmc-phase-ii-require/) (Jul 13, 2026)

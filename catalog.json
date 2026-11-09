@@ -1,0 +1,37 @@
+{
+  "show": "Against the Fraud Daily",
+  "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+  "episodes": [
+    {
+      "guid": "ep-df92d4c5-ba77-48ce-8fdc-d702e458529a",
+      "slug": "against-the-fraud-daily-monday-november-9-2026-2026-11-09",
+      "title": "Against the Fraud Daily - Monday, November 9, 2026",
+      "date": "2026-11-09",
+      "duration_secs": 349,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-df92d4c5-ba77-48ce-8fdc-d702e458529a.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-09-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-09.md",
+      "cases": [
+        {
+          "name": "ILC Dover / ILC Astrospace",
+          "amount": "$13M",
+          "relator": "Philip Root",
+          "source": "https://www.justice.gov/opa/pr/defense-and-aerospace-contractors-ilc-dover-and-ilc-astrospace-agree-pay-13m-resolve"
+        },
+        {
+          "name": "Lockheed Martin",
+          "amount": "~$29.5M",
+          "relator": "Tim Booher",
+          "source": "https://www.justice.gov/usao-ndtx/pr/lockheed-martin-agrees-pay-295m-resolve-alleged-employment-discrimination-violations"
+        }
+      ],
+      "practice_note": "CMMC Phase II non-deadline (Nov 10, 2026); Phase I / DFARS 252.204-7012 / NIST 800-171 still in force",
+      "pilot": true
+    }
+  ]
+}
