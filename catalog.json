@@ -32,6 +32,36 @@
       ],
       "practice_note": "CMMC Phase II non-deadline (Nov 10, 2026); Phase I / DFARS 252.204-7012 / NIST 800-171 still in force",
       "pilot": true
+    },
+    {
+      "guid": "ep-85c74da8-5596-44c3-a0fa-6cadfe939825",
+      "slug": "against-the-fraud-daily-tuesday-november-10-2026-2026-11-10",
+      "title": "Against the Fraud Daily - Tuesday, November 10, 2026",
+      "date": "2026-11-10",
+      "duration_secs": 486,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-85c74da8-5596-44c3-a0fa-6cadfe939825.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-10-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-10.md",
+      "cases": [
+        {
+          "name": "Lab Genomics LLC / Leena Dalal",
+          "amount": "$1.25M",
+          "relator": "Sunil Wadhwa and Ken Newton",
+          "source": "https://www.justice.gov/usao-edca/pr/california-laboratory-and-its-owner-pay-125m-settle-allegations-kickbacks-marketers"
+        },
+        {
+          "name": "Quest Diagnostics",
+          "amount": "$13,014,576 plus interest",
+          "relator": "Gerard Abate, Lori Anderson, Douglas S. Rabin",
+          "source": "https://oig.hhs.gov/fraud/enforcement/quest-diagnostics-inc-pays-over-13-million-to-settle-allegations-of-providing-illegal-kickbacks-to-doctors-and-health-care-executives/"
+        }
+      ],
+      "practice_note": "Eleventh Circuit, United States ex rel. Zafirov v. Florida Medical Associates (Sep 1, 2026): qui tam provisions survive Appointments Clause challenge; Take Care and Vesting Clause challenges remanded"
     }
   ]
 }
