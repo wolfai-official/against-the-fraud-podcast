@@ -62,6 +62,29 @@
         }
       ],
       "practice_note": "Eleventh Circuit, United States ex rel. Zafirov v. Florida Medical Associates (Sep 1, 2026): qui tam provisions survive Appointments Clause challenge; Take Care and Vesting Clause challenges remanded"
+    },
+    {
+      "guid": "ep-875e437a-ac79-4d38-a480-2f878d19e4ca",
+      "slug": "against-the-fraud-daily-wednesday-november-11-2026-2026-11-11",
+      "title": "Against the Fraud Daily - Wednesday, November 11, 2026",
+      "date": "2026-11-11",
+      "duration_secs": 471,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-875e437a-ac79-4d38-a480-2f878d19e4ca.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-11-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-11.md",
+      "cases": [
+        {
+          "name": "Premier Medical Group, P.C.",
+          "amount": "$2.8M",
+          "source": "https://www.justice.gov/usao-mdtn/pr/premier-medical-group-agrees-pay-28-million-resolve-false-claims-act-allegations-0"
+        }
+      ],
+      "practice_note": "DOJ/HHS Healthcare FCA Self-Disclosure Pilot Program (announced Oct 22, 2026): 1.25-1.6x base repayment, no admissions, no CIA, submissions due Apr 22, 2027; DOJ Civil Division head Brett Shumate resigned Nov 9, 2026"
     }
   ]
 }
