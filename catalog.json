@@ -85,6 +85,30 @@
         }
       ],
       "practice_note": "DOJ/HHS Healthcare FCA Self-Disclosure Pilot Program (announced Oct 22, 2026): 1.25-1.6x base repayment, no admissions, no CIA, submissions due Apr 22, 2027; DOJ Civil Division head Brett Shumate resigned Nov 9, 2026"
+    },
+    {
+      "guid": "ep-c72f99b6-75f1-472c-8265-1aa0c9f2e61d",
+      "slug": "against-the-fraud-daily-thursday-november-12-2026-2026-11-12",
+      "title": "Against the Fraud Daily - Thursday, November 12, 2026",
+      "date": "2026-11-12",
+      "duration_secs": 523,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-c72f99b6-75f1-472c-8265-1aa0c9f2e61d.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-12-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-12.md",
+      "cases": [
+        {
+          "name": "Dana-Farber Cancer Institute",
+          "amount": "$15M",
+          "relator": "Sholto David",
+          "source": "https://www.justice.gov/usao-ma/media/1421001/dl"
+        }
+      ],
+      "practice_note": "M.D. Fla., U.S. ex rel. 3DQA LLC v. Theken Companies (2026): nine-figure qui tam dismissed with prejudice on first-to-file; FCA anti-retaliation provision does not cover post-employment conduct"
     }
   ]
 }
