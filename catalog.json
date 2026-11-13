@@ -109,6 +109,30 @@
         }
       ],
       "practice_note": "M.D. Fla., U.S. ex rel. 3DQA LLC v. Theken Companies (2026): nine-figure qui tam dismissed with prejudice on first-to-file; FCA anti-retaliation provision does not cover post-employment conduct"
+    },
+    {
+      "guid": "ep-d4c8d617-359a-4cf2-a08e-d80ef9c1fb4f",
+      "slug": "against-the-fraud-daily-friday-november-13-2026-2026-11-13",
+      "title": "Against the Fraud Daily - Friday, November 13, 2026",
+      "date": "2026-11-13",
+      "duration_secs": 623,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-d4c8d617-359a-4cf2-a08e-d80ef9c1fb4f.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-13-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-13.md",
+      "cases": [
+        {
+          "name": "Clarksville Pain Institute / Pain Institute of Nashville",
+          "amount": "$1.5M",
+          "relator": "Krista Nicholson",
+          "source": "https://www.justice.gov/usao-mdtn/pr/clarksville-pain-management-clinic-and-managers-agree-pay-15-million-resolve-false"
+        }
+      ],
+      "practice_note": "Deloitte $21.5M Civil Rights Fraud Initiative settlement (Aug 25, 2026): organizational relator American Alliance for Equal Rights received $4.3M (20%); separate Florida and Indiana settlements $1.2M each; cooperation credit under DOJ guidelines"
     }
   ]
 }
