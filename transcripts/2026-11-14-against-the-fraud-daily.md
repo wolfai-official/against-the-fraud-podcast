@@ -1,0 +1,75 @@
+# Against the Fraud Daily — Saturday, November 14, 2026 (Transcript)
+
+- **Episode:** Against the Fraud Daily - Saturday, November 14, 2026
+- **Published:** November 14, 2026, 7:36 AM CT
+- **Duration:** 10 minutes 27 seconds
+- **Hosts:** Alex and Jordan
+- **Listen:** [Episode audio (MP3)](https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-ab4ee7f9-6def-4236-9850-80fd26ae1277.mp3)
+- **Feed:** [Against the Fraud Daily RSS](https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab)
+
+> All settlements discussed are allegations only; there has been no determination of liability.
+
+## Transcript
+
+Alex: Good morning, and welcome to Against the Fraud Daily. It is Saturday, November fourteenth, twenty twenty-six. I am Alex.
+
+Jordan: And I am Jordan. Today we have a brand new cybersecurity settlement from the Justice Department, a court ruling that every whistleblower lawyer needs to understand, and a pattern in cyber fraud enforcement that is getting hard to ignore.
+
+Alex: Let us start with the case of the day. On Friday, the Justice Department announced that Johnson Controls, the big heating, ventilation, and air conditioning company based in Milwaukee, Wisconsin, has agreed to pay five million dollars to resolve allegations that it violated the False Claims Act by failing to meet cybersecurity requirements in its federal contracts.
+
+Jordan: And this is not a small, one-contract story. The alleged failures ran from January of twenty eighteen through August of twenty twenty-five, more than seven years, and they touched contracts and subcontracts with the space agency NASA and the Departments of Defense, Energy, and Justice. These were building products and services contracts, the kind of work that puts a contractor's systems and people inside federal facilities, handling sensitive government information.
+
+Alex: Here is what the government says went wrong, and remember, these are allegations only. There has been no determination of liability. First, Johnson Controls allegedly failed to control access to protected information, because it did not have enough information about its own information systems, and it did not exercise enough control over those systems. Second, on contracts that required compliance with the National Institute of Standards and Technology's Special Publication eight hundred one seventy-one, including Defense Department contracts, the company allegedly failed to maintain a system security plan that met the contractual requirements, and it failed to adequately document, fully develop, or fully implement a plan of action and milestones to correct deficiencies and reduce or eliminate vulnerabilities in its information systems.
+
+Jordan: In plain English, the government says the company did not know what was on its own networks, did not control who could get to protected data, and did not keep the written security plan, or the written fix-it list, that its contracts required. And the government is blunt that none of this needed a data breach to matter. No breach is alleged here. The theory is that the company billed the government while its cybersecurity paperwork and controls did not match what the contracts promised.
+
+Alex: The settlement resolves two whistleblower lawsuits filed under the False Claims Act. Both relators are former Johnson Controls employees. Kelly Vance filed in federal court in Atlanta in twenty twenty-four, and David Thomas filed in federal court in Washington in twenty twenty-six. Kelly Vance will receive eight hundred and fifty thousand dollars as his share of the settlement. The Justice Department did not state a share for David Thomas in its announcement.
+
+Jordan: The investigation was a team effort. The Justice Department's Civil Division worked with the United States Attorneys' offices in Atlanta and Washington, the Defense Criminal Investigative Service, the Naval Criminal Investigative Service, the Air Force Office of Special Investigations, and the inspectors general of NASA, the Energy Department, the Justice Department, and the General Services Administration. That is a lot of badges for a five million dollar case, and it tells you how seriously the government takes this theory.
+
+Alex: Acting Assistant Attorney General Jonathan Guynn said federal contractors must follow required cybersecurity standards to safeguard sensitive government information, and that the Justice Department will keep holding accountable contractors who violate those standards. The United States Attorney in Atlanta, Theodore Hertzberg, added that his office will vigorously pursue contractors whose failures persist over several years and needlessly expose the nation to attacks by bad actors.
+
+Jordan: One detail worth noting for our listeners who follow the people, not just the cases. Jonathan Guynn is acting in the top Civil Division job. The prior head of the division, Brett Shumate, resigned earlier this week, and we told you about that on Wednesday. So this settlement is also the first big False Claims Act announcement under the division's new acting leadership.
+
+Alex: Now the practice note, and this one matters for anyone advising a whistleblower. On Friday, the Fifth Circuit Court of Appeals affirmed the dismissal of one of the most closely watched qui tam cases of the last few years, the case brought by Brook Jackson against Ventavia Research Group, Pfizer, and Icon.
+
+Jordan: Let us set the scene. Brook Jackson worked for less than three weeks in September of twenty twenty as a regional director overseeing two vaccine testing sites run by Ventavia, a contractor on Pfizer's Covid vaccine clinical trial. She says she witnessed violations of the trial protocol and federal regulations, reported them to Ventavia management and then to the Food and Drug Administration, and was fired on September twenty-fifth of twenty twenty, the same day she went to the F D A. In January of twenty twenty-one she filed a qui tam suit under the False Claims Act, alleging that falsified and unreliable trial data had induced the government to pay for the vaccine.
+
+Alex: The government investigated and first declined to join the case, while expressly reserving its right to intervene later for good cause. Then the government changed course and asked to intervene for the sole purpose of ending the case. The trial court in Texas agreed, and on Friday the Fifth Circuit said that decision was well within the trial court's discretion. The opinion was written by Judge Don Willett, and it turned on the Supreme Court's twenty twenty-three decision in Polansky versus Executive Health Resources.
+
+Jordan: We should be careful about sourcing here, because this opinion is fresh. Bloomberg Law reported the ruling on Friday evening. The procedural history, the dates, and the legal arguments come from the public court record, including the government's own appellate brief and the trial court's published order. What the Fifth Circuit has now confirmed, according to that report, is that Polansky gives the government very wide latitude to end a qui tam case it does not want to pursue, even when it first declined to join and comes back years later.
+
+Alex: So what is the practice lesson? Three things. First, when the government moves to dismiss your client's qui tam case, understand that the court reviews that decision with a light touch. Polansky says the government may dismiss over a relator's objection, and the trial court asks mainly whether the government has a reasonable basis, not whether the relator's case is strong. Second, the fight over late intervention is an uphill one. The statute lets the government intervene later for good cause, and courts have read good cause generously when the government says it wants to dismiss. Third, build the retaliation record early and separately. Jackson also appealed the dismissal of her retaliation claim, arguing that her F D A report and her firing on the same day showed protected activity and causation. The retaliation theory lives or dies on contemporaneous documentation, dates, and who knew what when, and that record has to be built while the memories are fresh.
+
+Jordan: The bottom line for relators' counsel is sobering but useful. A qui tam case is the government's case to control, even when the relator built it. If the government decides it does not want the case, Polansky is a steep hill, and the Fifth Circuit just made that hill a little steeper. Keep that in mind when you counsel a client about the odds, the timeline, and what a declination really means.
+
+Alex: And now the tech angle, which brings us back to Johnson Controls, because this case is really a story about how fraud is proved without a breach, without a hack, and without a single stolen file.
+
+Jordan: The proof here was paperwork against paperwork. The government and two insider whistleblowers compared what the contracts required with what the company actually had. The contracts required access controls, a system security plan that met the requirements, and a plan of action and milestones that documented, developed, and implemented fixes. The allegation is that those documents were missing, inadequate, or never finished. That is a pattern investigators can prove from the company's own files, its own assessments, and its own employees, without ever needing to show that a foreign hacker got in.
+
+Alex: And here is the pattern our listeners should see. Just ten days earlier, on November third, the Justice Department announced a thirteen million dollar settlement with I L C Dover and I L C Astrospace, the largest cyber fraud recovery under the department's Civil Cybersecurity Fraud Initiative, which began in October of twenty twenty-one. Same theory, same standard, the eight hundred one seventy-one controls, and the same kind of missing system security plan. Two settlements, ten days apart, eighteen million dollars combined, and both built on what the paperwork did, or did not, say.
+
+Jordan: That is the tech lesson for contractors and for the lawyers who advise them. A system security plan is not a formality, and a plan of action and milestones is not a to-do list you can leave blank. Under the False Claims Act, those documents are the evidence. If your controls are real, your documents prove it. If your controls are aspirational, your documents prove that too. And the people most likely to notice the gap are your own employees, which is exactly what happened here, twice, with two separate relators filing two separate lawsuits.
+
+Alex: For investigators, the method is worth studying. You do not start with the network. You start with the contract, then the security plan, then the fix-it list, then the assessment scores, and you ask a simple question at each step. Does this document match the one before it? When the answers stop matching, you have a case, and you have it without a single forensic image of a compromised server.
+
+Jordan: One quick watch item before we close. Yesterday was the deadline the House Democrats gave OpenAI to answer eleven questions about the firing of three safety researchers and a series of security incidents involving its models. As of this morning, we have not found a public response. We will keep watching, and we will tell you when one surfaces.
+
+Alex: That is the show for today. The case of the day is Johnson Controls, five million dollars, two whistleblowers, and a reminder that cybersecurity promises in federal contracts are enforceable promises. The practice note is the Fifth Circuit's Ventavia ruling, and the hard lesson of Polansky for relators. And the tech angle is the paperwork trail, two cyber settlements in ten days, both proved by documents, not by breaches.
+
+Jordan: If you are an attorney with a whistleblower client, or a contractor wondering whether your security plan would survive this kind of scrutiny, this is the week to take a hard look. We will be back tomorrow with the next case. I am Jordan.
+
+Alex: And I am Alex. Thank you for listening to Against the Fraud Daily.
+
+## Sources
+
+- U.S. Department of Justice, Office of Public Affairs — [HVAC Supplier Johnson Controls Inc. and Two Subsidiaries Agree to Pay $5 Million to Settle Cybersecurity Fraud Allegations](https://www.justice.gov/opa/pr/hvac-supplier-johnson-controls-inc-and-two-subsidiaries-agree-pay-5-million-settle) (Nov 13, 2026)
+- U.S. Department of Justice, U.S. Attorney's Office for the Northern District of Georgia — [Johnson Controls, Inc. and Two Subsidiaries Agree to Pay $5 Million to Settle Federal Fraud Allegations](https://www.justice.gov/usao-ndga/pr/johnson-controls-inc-and-two-subsidiaries-agree-pay-5-million-settle-federal-fraud) (Nov 13, 2026)
+- TipRanks (The Fly) — [Johnson Controls, subsidiaries to pay $5M to settle cybersecurity fraud claims](https://www.tipranks.com/news/the-fly/johnson-controls-subsidiaries-to-pay-5m-to-settle-cybersecurity-fraud-claims-thefly-news) (Nov 13, 2026)
+- VitalLaw / Cybersecurity Policy Report — [Federal Contractor to Pay $5M to Settle Cyber False Claims Act Case](https://www.vitallaw.com/news/federal-contractor-to-pay-5m-to-settle-cyber-false-claims-act-case/cspd015eb91088cc8e4f2691af8ecabe6315c4) (Nov 13, 2026)
+- Bloomberg Law — [DOJ Properly Axed Fraud Suit Against Pfizer Partner, Court Says](https://news.bloomberglaw.com/federal-contracting/doj-properly-axed-fraud-suit-against-pfizer-partner-court-says) (Nov 13, 2026)
+- U.S. District Court, Eastern District of Texas — [Order and Opinion granting motions to dismiss, United States ex rel. Jackson v. Ventavia Research Group, LLC, No. 1:21-cv-00008-MJT](https://law.justia.com/cases/federal/district-courts/texas/txedce/1:2021cv00008/203248/96/) (Mar 31, 2023)
+- United States' brief, U.S. Court of Appeals for the Fifth Circuit, No. 24-40564 (public court record) — [Brief for the United States as Intervenor Plaintiff-Appellee](https://www.iambrookjackson.com/_files/ugd/9df0bc_f9c32cf5dc3d445f9bcfbeb175313324.pdf) (Apr 28, 2025)
+- Sidley Austin, False Claims Act Blog — [DOJ Announces $13 Million Settlement with Defense and Aerospace Contractors, Alleging Failures to Meet Cybersecurity Requirements](https://fcablog.sidley.com/2026/11/11/doj-announces-13-million-settlement-with-defense-and-aerospace-contractors-alleging-failures-to-meet-cybersecurity-requirements/) (Nov 11, 2026)
+- Steptoe — [The Cost of Cyber Noncompliance: $13 Million Record-Breaking False Claims Act Settlement Highlights Contractors' Increasing Cybersecurity Risks](https://www.steptoe.com/en/news-publications/the-cost-of-cyber-noncompliance-dollar13-million-record-breaking-false-claims-act-settlement-highlights-contractors-increasing-cybersecurity-risks.html) (2026)
+- Nextgov — [Democrats press OpenAI over safety researcher firings, security incidents](https://www.nextgov.com/artificial-intelligence/2026/10/democrats-press-openai-over-safety-researcher-firings-security-incidents/416954/?oref=ng-homepage-river) (Oct 30, 2026)
