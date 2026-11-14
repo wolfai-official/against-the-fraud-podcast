@@ -133,6 +133,30 @@
         }
       ],
       "practice_note": "Deloitte $21.5M Civil Rights Fraud Initiative settlement (Aug 25, 2026): organizational relator American Alliance for Equal Rights received $4.3M (20%); separate Florida and Indiana settlements $1.2M each; cooperation credit under DOJ guidelines"
+    },
+    {
+      "guid": "ep-ab4ee7f9-6def-4236-9850-80fd26ae1277",
+      "slug": "against-the-fraud-daily-saturday-november-14-2026-2026-11-14",
+      "title": "Against the Fraud Daily - Saturday, November 14, 2026",
+      "date": "2026-11-14",
+      "duration_secs": 627,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-ab4ee7f9-6def-4236-9850-80fd26ae1277.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-14-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-14.md",
+      "cases": [
+        {
+          "name": "Johnson Controls Inc. / Johnson Controls Fire Protection LP / Johnson Controls Security Solutions LLC",
+          "amount": "$5M",
+          "relator": "Kelly Vance and David Thomas",
+          "source": "https://www.justice.gov/opa/pr/hvac-supplier-johnson-controls-inc-and-two-subsidiaries-agree-pay-5-million-settle"
+        }
+      ],
+      "practice_note": "Fifth Circuit affirmed dismissal of Brook Jackson v. Ventavia Research Group / Pfizer / Icon qui tam (Nov 13, 2026, Judge Willett), applying Polansky v. Executive Health Resources (2023); government declined intervention Jan 2022, later moved to intervene to dismiss; lesson: DOJ dismissal latitude is wide, late-intervention fight is uphill, build the retaliation record early"
     }
   ]
 }
