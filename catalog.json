@@ -157,6 +157,30 @@
         }
       ],
       "practice_note": "Fifth Circuit affirmed dismissal of Brook Jackson v. Ventavia Research Group / Pfizer / Icon qui tam (Nov 13, 2026, Judge Willett), applying Polansky v. Executive Health Resources (2023); government declined intervention Jan 2022, later moved to intervene to dismiss; lesson: DOJ dismissal latitude is wide, late-intervention fight is uphill, build the retaliation record early"
+    },
+    {
+      "guid": "ep-56c92b16-3428-438c-bd7b-48f8e7eba814",
+      "slug": "against-the-fraud-daily-sunday-november-15-2026-2026-11-15",
+      "title": "Against the Fraud Daily - Sunday, November 15, 2026",
+      "date": "2026-11-15",
+      "duration_secs": 536,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-56c92b16-3428-438c-bd7b-48f8e7eba814.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-15-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-15.md",
+      "cases": [
+        {
+          "name": "Michael Bacon (former Wells Fargo chief security officer) v. SEC",
+          "amount": "$179.5M preliminary award cut to $54.5M",
+          "relator": "Michael Bacon",
+          "source": "https://www.whistleblow.co/news/wells-fargo-whistleblower-sec-award-3rd-circuit/"
+        }
+      ],
+      "practice_note": "Smith v. U.S. Department of Housing and Urban Development (D. Guam Oct. 29, 2026): Jarkesy applied to the Administrative False Claims Act, $735,372 HUD award vacated on Seventh Amendment jury-trial grounds; single district court decision, not nationwide; FY2025 NDAA raised AFCA per-claim cap from $150K to $1M"
     }
   ]
 }
