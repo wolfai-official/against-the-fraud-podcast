@@ -181,6 +181,36 @@
         }
       ],
       "practice_note": "Smith v. U.S. Department of Housing and Urban Development (D. Guam Oct. 29, 2026): Jarkesy applied to the Administrative False Claims Act, $735,372 HUD award vacated on Seventh Amendment jury-trial grounds; single district court decision, not nationwide; FY2025 NDAA raised AFCA per-claim cap from $150K to $1M"
+    },
+    {
+      "guid": "ep-4cdd7b89-ad7a-411e-bd27-33defcf0a2a2",
+      "slug": "against-the-fraud-daily-monday-november-16-2026-2026-11-16",
+      "title": "Against the Fraud Daily - Monday, November 16, 2026",
+      "date": "2026-11-16",
+      "duration_secs": 600,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-4cdd7b89-ad7a-411e-bd27-33defcf0a2a2.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-16-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-16.md",
+      "cases": [
+        {
+          "name": "SEC fiscal 2026 enforcement results",
+          "amount": "$158M+ awarded to 65 whistleblowers; $731M returned to harmed investors",
+          "relator": null,
+          "source": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
+        },
+        {
+          "name": "Interstate Group Holdings (Defense Personal Property Program survey scores)",
+          "amount": "$325,000",
+          "relator": null,
+          "source": "https://www.justice.gov/usao-sdil/pr/moving-company-agrees-settle-allegations-providing-payments-and-gifts-military-members"
+        }
+      ],
+      "practice_note": "CFTC final rule (effective Oct 16, 2026) creates a 30% presumption for whistleblower awards of $5M or less (~82% of meritorious awards expected to qualify); caution from Estate of Jennions v. CFTC (D.C. Cir. July 28, 2026) \u2014 award denial upheld where a media article, not the tip, prompted the investigation"
     }
   ]
 }
