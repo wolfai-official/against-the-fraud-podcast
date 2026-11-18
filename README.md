@@ -22,6 +22,7 @@ New episodes publish every morning (~7:36 AM CT) and are added to this repo the 
 | 2026-11-15 | Against the Fraud Daily - Sunday, November 15, 2026 | 8:56 | [Audio](https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-56c92b16-3428-438c-bd7b-48f8e7eba814.mp3) · [Notes](episodes/2026-11-15.md) · [Transcript](transcripts/2026-11-15-against-the-fraud-daily.md) |
 | 2026-11-16 | Against the Fraud Daily - Monday, November 16, 2026 | 10:00 | [Audio](https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-4cdd7b89-ad7a-411e-bd27-33defcf0a2a2.mp3) · [Notes](episodes/2026-11-16.md) · [Transcript](transcripts/2026-11-16-against-the-fraud-daily.md) |
 | 2026-11-17 | Against the Fraud Daily - Tuesday, November 17, 2026 | 8:58 | [Audio](https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-40a89f47-98ea-46b3-8230-6ec0cf81b1db.mp3) · [Notes](episodes/2026-11-17.md) · [Transcript](transcripts/2026-11-17-against-the-fraud-daily.md) |
+| 2026-11-18 | Against the Fraud Daily - Wednesday, November 18, 2026 | 10:43 | [Audio](https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-f151354f-ccd2-40f5-9a6e-8839ae119a33.mp3) · [Notes](episodes/2026-11-18.md) · [Transcript](transcripts/2026-11-18-against-the-fraud-daily.md) |
 
 ## Repo layout
 
