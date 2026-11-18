@@ -210,7 +210,7 @@
           "source": "https://www.justice.gov/usao-sdil/pr/moving-company-agrees-settle-allegations-providing-payments-and-gifts-military-members"
         }
       ],
-      "practice_note": "CFTC final rule (effective Oct 16, 2026) creates a 30% presumption for whistleblower awards of $5M or less (~82% of meritorious awards expected to qualify); caution from Estate of Jennions v. CFTC (D.C. Cir. July 28, 2026) — award denial upheld where a media article, not the tip, prompted the investigation"
+      "practice_note": "CFTC final rule (effective Oct 16, 2026) creates a 30% presumption for whistleblower awards of $5M or less (~82% of meritorious awards expected to qualify); caution from Estate of Jennions v. CFTC (D.C. Cir. July 28, 2026) \u2014 award denial upheld where a media article, not the tip, prompted the investigation"
     },
     {
       "guid": "ep-40a89f47-98ea-46b3-8230-6ec0cf81b1db",
@@ -235,6 +235,30 @@
         }
       ],
       "practice_note": "Eleventh Circuit, Brent Berry v. Native American Services Corp. (Nov 12, 2026): summary reversal of Appointments Clause dismissal under Zafirov; Take Care and Vesting Clause arguments remanded; five circuits have now rejected Appointments Clause challenges to qui tam"
+    },
+    {
+      "guid": "ep-f151354f-ccd2-40f5-9a6e-8839ae119a33",
+      "slug": "against-the-fraud-daily-wednesday-november-18-2026-2026-11-18",
+      "title": "Against the Fraud Daily - Wednesday, November 18, 2026",
+      "date": "2026-11-18",
+      "duration_secs": 643,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-f151354f-ccd2-40f5-9a6e-8839ae119a33.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-18-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-18.md",
+      "cases": [
+        {
+          "name": "InnovAge Holding Corp. (PACE senior care)",
+          "amount": "$36,000,000",
+          "relator": "Monita Poudyal and Karen Lapcewich ($4.5M share)",
+          "source": "https://www.justice.gov/usao-co/pr/pace-organization-innovage-agrees-pay-36m-resolve-false-claims-act-allegations-failing"
+        }
+      ],
+      "practice_note": "Capitated-payment FCA theory: the false claim is the fixed monthly PACE payment collected while care was not delivered; no corporate integrity agreement mentioned in the announcement; two relators/two suits resolved as one coordinated settlement with a single combined share"
     }
   ]
 }
