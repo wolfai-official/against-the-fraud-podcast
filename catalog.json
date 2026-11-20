@@ -283,6 +283,30 @@
         }
       ],
       "practice_note": "SEC Office of the Whistleblower FY2026 annual report: 29 awards reduced for unreasonable delay in reporting; 140 denials; Foot Locker $148,000 Rule 21F-17(a) penalty for separation agreements purporting to waive whistleblower award rights; 30% award presumption under Rule 21F-6(c) when maximum award is $5M or less"
+    },
+    {
+      "guid": "ep-6ebfaae8-7464-4003-8cda-db2b6884e7ac",
+      "slug": "against-the-fraud-daily-friday-november-20-2026-2026-11-20",
+      "title": "Against the Fraud Daily - Friday, November 20, 2026",
+      "date": "2026-11-20",
+      "duration_secs": 572,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-6ebfaae8-7464-4003-8cda-db2b6884e7ac.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-20-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-20.md",
+      "cases": [
+        {
+          "name": "Ruby Scott / Delta Home Health Care LLC (Medicare fraud fueled by illegal kickbacks)",
+          "amount": "$1,652,130.67 restitution",
+          "relator": "No qui tam relator; criminal prosecution (jury conviction May 2026, E.D. Mich.)",
+          "source": "https://www.justice.gov/opa/pr/michigan-home-health-care-agency-owner-sentenced-4-years-prison-16m-medicare-fraud-scheme"
+        }
+      ],
+      "practice_note": "Regeneron / Eylea causation: Nov 19, 2026 D. Mass. ruling that DOJ need not prove 'but-for' causation for the false-certification theory; Judge Saylor's but-for ruling for the AKS 'resulting from' theory affirmed by the First Circuit Feb 18, 2026 (joining Sixth and Eighth Circuits; Third Circuit requires only a 'link'); Judge Gorton's opposite conclusion in Teva; plead both theories"
     }
   ]
 }
