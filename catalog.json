@@ -331,6 +331,30 @@
     }
    ],
    "practice_note": "DOJ Justice Manual revisions Sept 18, 2026: Section 1-19.000 limits guidance-only FCA enforcement (enforcement must rest on legal requirements; guidance still usable for scienter, standards, and contractual incorporation); Section 4-4.111 requires a dismissal assessment in every declined qui tam and widens the first Granston factor from 'curbing meritless qui tams that facially lack merit' to 'curbing meritless qui tams'; DOJ may re-evaluate dismissal as litigation progresses"
+  },
+  {
+   "guid": "ep-00096791-9c2e-40c6-947a-99ead4cbc23f",
+   "slug": "against-the-fraud-daily-sunday-november-22-2026-2026-11-22",
+   "title": "Against the Fraud Daily - Sunday, November 22, 2026",
+   "date": "2026-11-22",
+   "duration_secs": 693,
+   "hosts": [
+    "Alex",
+    "Jordan"
+   ],
+   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-00096791-9c2e-40c6-947a-99ead4cbc23f.mp3",
+   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+   "transcript_path": "transcripts/2026-11-22-against-the-fraud-daily.md",
+   "notes_path": "episodes/2026-11-22.md",
+   "cases": [
+    {
+     "name": "Policing Insider Trading in Prediction Markets Act of 2026 (H.R. 11092, introduced Nov 20, 2026) \u2014 DOJ whistleblower program paying 10-30% of sanctions over $1M in prediction-market fraud cases; CFTC Nov 13 stay of Kalshi TRUMPSAY markets; Gabriel Perez CFTC settlement Aug 28, 2026 ($107,539.02 disgorgement + $65,000 penalty, three-year ban)",
+     "amount": "10-30% of sanctions over $1M (proposed awards); $172,539.02 total Perez sanctions",
+     "relator": "No relator; proposed DOJ program and CFTC enforcement action (Perez settled without admitting findings)",
+     "source": "https://casten.house.gov/media/press-releases/casten-and-lieu-introduce-bill-to-combat-insider-trading-on-prediction-markets"
+    }
+   ],
+   "practice_note": "SEC 90-day award-claim deadline under Rule 21F-10(b): Release No. 104614 (Jan 15, 2026, claim filed ~18 months late, medical-issues excuse rejected, 'extraordinary circumstances' narrowly defined) and Release No. 105185 (Apr 9, 2026, one claimant three months late, another timely but info did not lead to the action); 29 FY2026 awards cut for unreasonable delay in reporting"
   }
  ]
 }
