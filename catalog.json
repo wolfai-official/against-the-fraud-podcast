@@ -379,6 +379,36 @@
     }
    ],
    "practice_note": "CFTC Whistleblower Program FY2026 annual report (Oct 2026): record year — awards totaling over $193M, 28 final award determinations (most in a single fiscal year), 1,695 Form TCRs, 107 WB-APPs, $580M awarded since 2014, $4.5B in penalties remitted to Treasury; 10 awards in Sept 2026 totaling $150M+; Sept 11, 2026 final rule presuming 30% award when max award is $5M or less; backlog being cleared; one determination (26-WB-25) reduced an award citing frivolous filings"
+  },
+  {
+   "guid": "ep-295df2e9-7c12-4c76-a8b9-52da16354d5b",
+   "slug": "against-the-fraud-daily-tuesday-november-24-2026-2026-11-24",
+   "title": "Against the Fraud Daily - Tuesday, November 24, 2026",
+   "date": "2026-11-24",
+   "duration_secs": 1002,
+   "hosts": [
+    "Alex",
+    "Jordan"
+   ],
+   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-295df2e9-7c12-4c76-a8b9-52da16354d5b.mp3",
+   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+   "transcript_path": "transcripts/2026-11-24-against-the-fraud-daily.md",
+   "notes_path": "episodes/2026-11-24.md",
+   "cases": [
+    {
+     "name": "CFTC grants over $11M in whistleblower awards to 14 whistleblowers (announced Nov 23, 2026, release 9329-26) — original information led to successful enforcement action against an extensive fraudulent scheme; CFTC does not disclose the specific action or exact award amounts (confidentiality); six additional claimants denied; $590M+ awarded since 2014, $5.1B+ in sanctions; record year for the program",
+     "amount": "Over $11M to 14 whistleblowers; $590M+ awarded since 2014; $5.1B+ in sanctions",
+     "relator": "14 CFTC whistleblowers, identities confidential; awards 10-30% of sanctions collected, paid from the Customer Protection Fund",
+     "source": "https://www.cftc.gov/PressRoom/PressReleases/9329-26"
+    },
+    {
+     "name": "North Carolina tax return preparers sentenced in pandemic-relief fraud scheme (Nov 23, 2026) — Whitnee Leach (office manager) 43 months prison + $13,890,697 restitution; Jeannie Negron (preparer) 6 months + $73,514 restitution; business owner Nejlai Mitchell sentenced Oct 1 to 60 months; April 2022-May 2023 false returns claiming paid sick and family leave credits; ~$23.9M in fraudulent refund claims, IRS paid out more than $13M; part of DOJ/IRS National Tax Enforcement Surge (76 defendants, $490M+ intended loss)",
+     "amount": "~$23.9M in fraudulent refund claims; more than $13M paid out; $13,890,697 restitution (Leach)",
+     "relator": "No relator; criminal prosecution by the National Fraud Enforcement Division and IRS Criminal Investigation; all eight defendants pleaded guilty",
+     "source": "https://www.justice.gov/opa/pr/north-carolina-return-preparers-sentenced-prison-pandemic-relief-fraud-scheme"
+    }
+   ],
+   "practice_note": "Fifth Circuit, United States ex rel. Jackson v. Ventavia Research Group (No. 24-40564, Nov 13, 2026) — dismissal affirmed under Polansky, but Judge Willett's concurrence raises 'serious constitutional pause' over qui tam under Article II (Appointments Clause 'closer question'; Vesting and Take Care Clauses 'a distinct — and stronger — problem'); Chief Judge Elrod: concerns 'no doubt en banc worthy,' 'it may be time for our en banc court to revisit' Riley v. St. Luke's (5th Cir. 2001 en banc); Judges Ho and Duncan raised similar concerns in 2025 — four Fifth Circuit judges now questioning; overturning Riley would create a circuit split and the issue is likely to reach the Supreme Court"
   }
  ]
 }
