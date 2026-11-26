@@ -210,7 +210,7 @@
      "source": "https://www.justice.gov/usao-sdil/pr/moving-company-agrees-settle-allegations-providing-payments-and-gifts-military-members"
     }
    ],
-   "practice_note": "CFTC final rule (effective Oct 16, 2026) creates a 30% presumption for whistleblower awards of $5M or less (~82% of meritorious awards expected to qualify); caution from Estate of Jennions v. CFTC (D.C. Cir. July 28, 2026) — award denial upheld where a media article, not the tip, prompted the investigation"
+   "practice_note": "CFTC final rule (effective Oct 16, 2026) creates a 30% presumption for whistleblower awards of $5M or less (~82% of meritorious awards expected to qualify); caution from Estate of Jennions v. CFTC (D.C. Cir. July 28, 2026) \u2014 award denial upheld where a media article, not the tip, prompted the investigation"
   },
   {
    "guid": "ep-40a89f47-98ea-46b3-8230-6ec0cf81b1db",
@@ -348,7 +348,7 @@
    "notes_path": "episodes/2026-11-22.md",
    "cases": [
     {
-     "name": "Policing Insider Trading in Prediction Markets Act of 2026 (H.R. 11092, introduced Nov 20, 2026) — DOJ whistleblower program paying 10-30% of sanctions over $1M in prediction-market fraud cases; CFTC Nov 13 stay of Kalshi TRUMPSAY markets; Gabriel Perez CFTC settlement Aug 28, 2026 ($107,539.02 disgorgement + $65,000 penalty, three-year ban)",
+     "name": "Policing Insider Trading in Prediction Markets Act of 2026 (H.R. 11092, introduced Nov 20, 2026) \u2014 DOJ whistleblower program paying 10-30% of sanctions over $1M in prediction-market fraud cases; CFTC Nov 13 stay of Kalshi TRUMPSAY markets; Gabriel Perez CFTC settlement Aug 28, 2026 ($107,539.02 disgorgement + $65,000 penalty, three-year ban)",
      "amount": "10-30% of sanctions over $1M (proposed awards); $172,539.02 total Perez sanctions",
      "relator": "No relator; proposed DOJ program and CFTC enforcement action (Perez settled without admitting findings)",
      "source": "https://casten.house.gov/media/press-releases/casten-and-lieu-introduce-bill-to-combat-insider-trading-on-prediction-markets"
@@ -372,13 +372,13 @@
    "notes_path": "episodes/2026-11-23.md",
    "cases": [
     {
-     "name": "Backward Hat Capital alleged $560M Ponzi scheme (SEC press release 2026-116 and CFTC release 9328-26, Nov 20, 2026) — AI-driven FX arbitrage pitch, ~$560M raised from 2,000+ investors since July 2022; $250M+ Ponzi-like payments, $220M+ to founders; fake audit reports by Joseph Anderson; FBI arrests Nov 18, 2026; SDNY criminal charges; Kevin B. Duff appointed temporary receiver Nov 20, 2026",
+     "name": "Backward Hat Capital alleged $560M Ponzi scheme (SEC press release 2026-116 and CFTC release 9328-26, Nov 20, 2026) \u2014 AI-driven FX arbitrage pitch, ~$560M raised from 2,000+ investors since July 2022; $250M+ Ponzi-like payments, $220M+ to founders; fake audit reports by Joseph Anderson; FBI arrests Nov 18, 2026; SDNY criminal charges; Kevin B. Duff appointed temporary receiver Nov 20, 2026",
      "amount": "~$560M raised (SEC); $550M+ (CFTC); $600M+ (SDNY prosecutors); $250M+ Ponzi payments; $220M+ to founders",
      "relator": "No relator; parallel SEC/CFTC civil actions and SDNY criminal prosecution; allegations only, no liability findings",
      "source": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering"
     }
    ],
-   "practice_note": "CFTC Whistleblower Program FY2026 annual report (Oct 2026): record year — awards totaling over $193M, 28 final award determinations (most in a single fiscal year), 1,695 Form TCRs, 107 WB-APPs, $580M awarded since 2014, $4.5B in penalties remitted to Treasury; 10 awards in Sept 2026 totaling $150M+; Sept 11, 2026 final rule presuming 30% award when max award is $5M or less; backlog being cleared; one determination (26-WB-25) reduced an award citing frivolous filings"
+   "practice_note": "CFTC Whistleblower Program FY2026 annual report (Oct 2026): record year \u2014 awards totaling over $193M, 28 final award determinations (most in a single fiscal year), 1,695 Form TCRs, 107 WB-APPs, $580M awarded since 2014, $4.5B in penalties remitted to Treasury; 10 awards in Sept 2026 totaling $150M+; Sept 11, 2026 final rule presuming 30% award when max award is $5M or less; backlog being cleared; one determination (26-WB-25) reduced an award citing frivolous filings"
   },
   {
    "guid": "ep-295df2e9-7c12-4c76-a8b9-52da16354d5b",
@@ -396,19 +396,19 @@
    "notes_path": "episodes/2026-11-24.md",
    "cases": [
     {
-     "name": "CFTC grants over $11M in whistleblower awards to 14 whistleblowers (announced Nov 23, 2026, release 9329-26) — original information led to successful enforcement action against an extensive fraudulent scheme; CFTC does not disclose the specific action or exact award amounts (confidentiality); six additional claimants denied; $590M+ awarded since 2014, $5.1B+ in sanctions; record year for the program",
+     "name": "CFTC grants over $11M in whistleblower awards to 14 whistleblowers (announced Nov 23, 2026, release 9329-26) \u2014 original information led to successful enforcement action against an extensive fraudulent scheme; CFTC does not disclose the specific action or exact award amounts (confidentiality); six additional claimants denied; $590M+ awarded since 2014, $5.1B+ in sanctions; record year for the program",
      "amount": "Over $11M to 14 whistleblowers; $590M+ awarded since 2014; $5.1B+ in sanctions",
      "relator": "14 CFTC whistleblowers, identities confidential; awards 10-30% of sanctions collected, paid from the Customer Protection Fund",
      "source": "https://www.cftc.gov/PressRoom/PressReleases/9329-26"
     },
     {
-     "name": "North Carolina tax return preparers sentenced in pandemic-relief fraud scheme (Nov 23, 2026) — Whitnee Leach (office manager) 43 months prison + $13,890,697 restitution; Jeannie Negron (preparer) 6 months + $73,514 restitution; business owner Nejlai Mitchell sentenced Oct 1 to 60 months; April 2022-May 2023 false returns claiming paid sick and family leave credits; ~$23.9M in fraudulent refund claims, IRS paid out more than $13M; part of DOJ/IRS National Tax Enforcement Surge (76 defendants, $490M+ intended loss)",
+     "name": "North Carolina tax return preparers sentenced in pandemic-relief fraud scheme (Nov 23, 2026) \u2014 Whitnee Leach (office manager) 43 months prison + $13,890,697 restitution; Jeannie Negron (preparer) 6 months + $73,514 restitution; business owner Nejlai Mitchell sentenced Oct 1 to 60 months; April 2022-May 2023 false returns claiming paid sick and family leave credits; ~$23.9M in fraudulent refund claims, IRS paid out more than $13M; part of DOJ/IRS National Tax Enforcement Surge (76 defendants, $490M+ intended loss)",
      "amount": "~$23.9M in fraudulent refund claims; more than $13M paid out; $13,890,697 restitution (Leach)",
      "relator": "No relator; criminal prosecution by the National Fraud Enforcement Division and IRS Criminal Investigation; all eight defendants pleaded guilty",
      "source": "https://www.justice.gov/opa/pr/north-carolina-return-preparers-sentenced-prison-pandemic-relief-fraud-scheme"
     }
    ],
-   "practice_note": "Fifth Circuit, United States ex rel. Jackson v. Ventavia Research Group (No. 24-40564, Nov 13, 2026) — dismissal affirmed under Polansky, but Judge Willett's concurrence raises 'serious constitutional pause' over qui tam under Article II (Appointments Clause 'closer question'; Vesting and Take Care Clauses 'a distinct — and stronger — problem'); Chief Judge Elrod: concerns 'no doubt en banc worthy,' 'it may be time for our en banc court to revisit' Riley v. St. Luke's (5th Cir. 2001 en banc); Judges Ho and Duncan raised similar concerns in 2025 — four Fifth Circuit judges now questioning; overturning Riley would create a circuit split and the issue is likely to reach the Supreme Court"
+   "practice_note": "Fifth Circuit, United States ex rel. Jackson v. Ventavia Research Group (No. 24-40564, Nov 13, 2026) \u2014 dismissal affirmed under Polansky, but Judge Willett's concurrence raises 'serious constitutional pause' over qui tam under Article II (Appointments Clause 'closer question'; Vesting and Take Care Clauses 'a distinct \u2014 and stronger \u2014 problem'); Chief Judge Elrod: concerns 'no doubt en banc worthy,' 'it may be time for our en banc court to revisit' Riley v. St. Luke's (5th Cir. 2001 en banc); Judges Ho and Duncan raised similar concerns in 2025 \u2014 four Fifth Circuit judges now questioning; overturning Riley would create a circuit split and the issue is likely to reach the Supreme Court"
   },
   {
    "guid": "ep-dc294f56-10d6-4a37-88d4-ad722f59bc7a",
@@ -426,31 +426,67 @@
    "notes_path": "episodes/2026-11-25.md",
    "cases": [
     {
-     "name": "DOJ largest-ever anti-scam crackdown (announced Nov 24, 2026) — 400+ cases against 800+ defendants in 85 federal districts; $8B+ in intended victim losses recovered; Operation Blackout seized nearly $17B, 14,000+ devices, 29+ scam compounds dismantled; Operation Level Up prevented $143M+ in losses since March 6, 2026; Georgia prison jury-duty scam, Mexican list broker, Southeast Asian crypto scam centers charged; Executive Order 14390",
+     "name": "DOJ largest-ever anti-scam crackdown (announced Nov 24, 2026) \u2014 400+ cases against 800+ defendants in 85 federal districts; $8B+ in intended victim losses recovered; Operation Blackout seized nearly $17B, 14,000+ devices, 29+ scam compounds dismantled; Operation Level Up prevented $143M+ in losses since March 6, 2026; Georgia prison jury-duty scam, Mexican list broker, Southeast Asian crypto scam centers charged; Executive Order 14390",
      "amount": "$8B+ in intended victim losses recovered; nearly $17B seized/restrained by Operation Blackout",
      "relator": "Criminal enforcement surge; no qui tam relator announced",
      "source": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants"
     },
     {
-     "name": "AcuMedGroup LLC and owner Cecilia Rusnak agree to pay $500,000 to resolve FCA allegations (announced Nov 24, 2026, M.D. Fla.) — submitted inflated VA acupuncture claims that did not meet minimum time requirements, Feb 24, 2016–Mar 10, 2022; allegations only, no determination of liability",
+     "name": "AcuMedGroup LLC and owner Cecilia Rusnak agree to pay $500,000 to resolve FCA allegations (announced Nov 24, 2026, M.D. Fla.) \u2014 submitted inflated VA acupuncture claims that did not meet minimum time requirements, Feb 24, 2016\u2013Mar 10, 2022; allegations only, no determination of liability",
      "amount": "$500,000",
      "relator": "No relator announced; investigated by USAO M.D. Fla. and VA OIG",
      "source": "https://www.justice.gov/usao-mdfl/pr/acupuncture-provider-agrees-pay-500000-settle-false-claims-act-liability"
     },
     {
-     "name": "First Circuit revives PPP qui tam suit against private equity firms, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) — reversal of D.R.I. summary judgment on the FCA public disclosure bar; Judge Seth R. Aframe writing; PPP loan misrepresentation allegations; New Harbor entities did not themselves apply for PPP loans",
+     "name": "First Circuit revives PPP qui tam suit against private equity firms, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) \u2014 reversal of D.R.I. summary judgment on the FCA public disclosure bar; Judge Seth R. Aframe writing; PPP loan misrepresentation allegations; New Harbor entities did not themselves apply for PPP loans",
      "amount": "No amount stated; PPP loan misrepresentation allegations",
      "relator": "James R. Berkley",
      "source": "https://news.bloombergtax.com/health-law-and-business/whistleblower-gets-revival-of-suit-against-private-equity-firms"
     },
     {
-     "name": "Mortgage document fraud guilty pleas (Nov 23–24, 2026, M.D. Fla.) — Richard Exposito, licensed loan officer, conspiracy to commit bank fraud with document preparer Kiomy Torres (Dec 2016–Jul 2019); Desean Ford, Jacksonville broker, false statement on VA-guaranteed loan with altered bank statements (+$90,000) and fake pay stubs/W-2s; loan funded $245,520, forfeiture $245,520; payroll company subpoena showed no record",
+     "name": "Mortgage document fraud guilty pleas (Nov 23\u201324, 2026, M.D. Fla.) \u2014 Richard Exposito, licensed loan officer, conspiracy to commit bank fraud with document preparer Kiomy Torres (Dec 2016\u2013Jul 2019); Desean Ford, Jacksonville broker, false statement on VA-guaranteed loan with altered bank statements (+$90,000) and fake pay stubs/W-2s; loan funded $245,520, forfeiture $245,520; payroll company subpoena showed no record",
      "amount": "$245,520 loan funded and forfeited (Ford)",
      "relator": "Criminal pleas; no relator",
      "source": "https://www.justice.gov/usao-mdfl/pr/licensed-mortgage-loan-officer-pleads-guilty-bank-fraud-conspiracy"
     }
    ],
-   "practice_note": "First Circuit, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) — reversal of D.R.I. summary judgment (Chief Judge John J. McConnell Jr., Sept 26, 2025) that had held the suit barred by the FCA public disclosure bar; Judge Seth R. Aframe writing; bar turns on whether allegations are substantially similar to publicly disclosed information, with an original-source exception; contrast Golden Empire Mortgage (E.D. Cal. Aug 5, 2024), where a relator relying only on PandemicOversight.gov data was barred; repackaging a public database is likely barred, independent investigation plus non-public detail can survive"
+   "practice_note": "First Circuit, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) \u2014 reversal of D.R.I. summary judgment (Chief Judge John J. McConnell Jr., Sept 26, 2025) that had held the suit barred by the FCA public disclosure bar; Judge Seth R. Aframe writing; bar turns on whether allegations are substantially similar to publicly disclosed information, with an original-source exception; contrast Golden Empire Mortgage (E.D. Cal. Aug 5, 2024), where a relator relying only on PandemicOversight.gov data was barred; repackaging a public database is likely barred, independent investigation plus non-public detail can survive"
+  },
+  {
+   "guid": "ep-70cc666c-fb6a-4557-ba43-9141c3333cf1",
+   "slug": "against-the-fraud-daily-thursday-november-26-2026-2026-11-26",
+   "title": "Against the Fraud Daily - Thursday, November 26, 2026",
+   "date": "2026-11-26",
+   "duration_secs": 660,
+   "hosts": [
+    "Alex",
+    "Jordan"
+   ],
+   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-70cc666c-fb6a-4557-ba43-9141c3333cf1.mp3",
+   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+   "transcript_path": "transcripts/2026-11-26-against-the-fraud-daily.md",
+   "notes_path": "episodes/2026-11-26.md",
+   "cases": [
+    {
+     "name": "United States ex rel. Veteran Marketing LLC v. Respironics, Inc. (Philips RS North America LLC), No. 2:21-cv-00853, E.D. Pa. \u2014 Chief Judge Wendy Beetlestone opinion issued Nov 24, 2026 (reported Nov 25): motion to dismiss denied in part, granted in part; whistleblower alleged Chinese-made CPAP masks and machines sold to the VA in violation of the Buy American Act and Trade Agreements Act; masks shipped from China in boxes marked 'Made in China,' 10-15 seconds of hand assembly, repackaged without the marking; CPAP blowers also made in China; sales via distributor First Nation Group LLC under FSS contracts (2010 and Dec 2018); 2018 emails warned not to ship samples directly to the VA because of 'Made in China' packaging; counts under 3729(a)(1)(A)-(B) survive under Rule 9(b); reverse false claim count (a)(1)(G) dismissed as redundant; government declined to intervene; allegations only",
+     "amount": "No amount stated; Buy American / Trade Agreements Act qui tam, motion to dismiss stage",
+     "relator": "Veteran Marketing LLC",
+     "source": "https://www.law360.co.uk/health/articles/2559912/philips-can-t-escape-fca-suit-over-chinese-made-cpaps"
+    },
+    {
+     "name": "YDH Express Inc. / YDH Int'l Inc. / owner Yizhao Hou agree to pay $300,000 and permanently cease using USPS (court-ordered settlement Nov 25, 2026, E.D.N.Y.) \u2014 shipped thousands of parcels bearing counterfeit USPS labels received from customers in China; suit filed May 2025; TRO May 16, 2025, preliminary injunction June 6, 2025; docket 25-CV-2719 (NCM); allegations only, no determination of liability",
+     "amount": "$300,000",
+     "relator": "No relator; government enforcement action (USAO E.D.N.Y., USPIS, CBP)",
+     "source": "https://www.justice.gov/usao-edny/pr/district-court-orders-queens-based-logistics-company-affiliate-and-their-owner-pay"
+    },
+    {
+     "name": "Article II constitutionality of qui tam \u2014 Beetlestone rejects Philips' Appointments Clause challenge (relators hold no continuing position, cannot be replaced; relies on Zafirov, 11th Cir. 2026) and Take Care/Vesting challenge (qui tam history plus government retained control: intervene, dismiss, veto settlement, stay discovery); contrast Fifth Circuit Jackson v. Ventavia concurrence (Nov 13, 2026, Judge Willett)",
+     "amount": "No amount stated; constitutional ruling in motion-to-dismiss opinion",
+     "relator": "Veteran Marketing LLC (constitutional challenge raised by defendant Philips)",
+     "source": "https://app.midpage.ai/document/veteran-marketing-llc-v-respironics--1201ef29-5213-4b71-897d-b32aa1ffd67e"
+    }
+   ],
+   "practice_note": "E.D. Pa., United States ex rel. Veteran Marketing LLC v. Respironics, Inc. (Philips), Chief Judge Wendy Beetlestone, opinion Nov 24, 2026 \u2014 rejects Article II constitutional challenge to qui tam: Appointments Clause (relators hold no continuing position, cannot be replaced by another relator; relies on Zafirov, 11th Cir. 2026) and Take Care/Vesting Clauses (qui tam history before and after the founding plus government retained control \u2014 intervene, dismiss, veto settlement, stay discovery); contrast Fifth Circuit Jackson v. Ventavia concurrence (Nov 13, 2026, Judge Willett, 'serious constitutional pause'; Chief Judge Elrod: en banc worthy); expect the Article II motion in declined qui tam cases and prepare the answer before filing"
   }
  ]
 }
