@@ -1,492 +1,534 @@
 {
- "show": "Against the Fraud Daily",
- "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
- "episodes": [
-  {
-   "guid": "ep-df92d4c5-ba77-48ce-8fdc-d702e458529a",
-   "slug": "against-the-fraud-daily-monday-november-9-2026-2026-11-09",
-   "title": "Against the Fraud Daily - Monday, November 9, 2026",
-   "date": "2026-11-09",
-   "duration_secs": 349,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-df92d4c5-ba77-48ce-8fdc-d702e458529a.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-09-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-09.md",
-   "cases": [
+  "show": "Against the Fraud Daily",
+  "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+  "episodes": [
     {
-     "name": "ILC Dover / ILC Astrospace",
-     "amount": "$13M",
-     "relator": "Philip Root",
-     "source": "https://www.justice.gov/opa/pr/defense-and-aerospace-contractors-ilc-dover-and-ilc-astrospace-agree-pay-13m-resolve"
+      "guid": "ep-df92d4c5-ba77-48ce-8fdc-d702e458529a",
+      "slug": "against-the-fraud-daily-monday-november-9-2026-2026-11-09",
+      "title": "Against the Fraud Daily - Monday, November 9, 2026",
+      "date": "2026-11-09",
+      "duration_secs": 349,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-df92d4c5-ba77-48ce-8fdc-d702e458529a.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-09-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-09.md",
+      "cases": [
+        {
+          "name": "ILC Dover / ILC Astrospace",
+          "amount": "$13M",
+          "relator": "Philip Root",
+          "source": "https://www.justice.gov/opa/pr/defense-and-aerospace-contractors-ilc-dover-and-ilc-astrospace-agree-pay-13m-resolve"
+        },
+        {
+          "name": "Lockheed Martin",
+          "amount": "~$29.5M",
+          "relator": "Tim Booher",
+          "source": "https://www.justice.gov/usao-ndtx/pr/lockheed-martin-agrees-pay-295m-resolve-alleged-employment-discrimination-violations"
+        }
+      ],
+      "practice_note": "CMMC Phase II non-deadline (Nov 10, 2026); Phase I / DFARS 252.204-7012 / NIST 800-171 still in force",
+      "pilot": true
     },
     {
-     "name": "Lockheed Martin",
-     "amount": "~$29.5M",
-     "relator": "Tim Booher",
-     "source": "https://www.justice.gov/usao-ndtx/pr/lockheed-martin-agrees-pay-295m-resolve-alleged-employment-discrimination-violations"
-    }
-   ],
-   "practice_note": "CMMC Phase II non-deadline (Nov 10, 2026); Phase I / DFARS 252.204-7012 / NIST 800-171 still in force",
-   "pilot": true
-  },
-  {
-   "guid": "ep-85c74da8-5596-44c3-a0fa-6cadfe939825",
-   "slug": "against-the-fraud-daily-tuesday-november-10-2026-2026-11-10",
-   "title": "Against the Fraud Daily - Tuesday, November 10, 2026",
-   "date": "2026-11-10",
-   "duration_secs": 486,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-85c74da8-5596-44c3-a0fa-6cadfe939825.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-10-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-10.md",
-   "cases": [
-    {
-     "name": "Lab Genomics LLC / Leena Dalal",
-     "amount": "$1.25M",
-     "relator": "Sunil Wadhwa and Ken Newton",
-     "source": "https://www.justice.gov/usao-edca/pr/california-laboratory-and-its-owner-pay-125m-settle-allegations-kickbacks-marketers"
+      "guid": "ep-85c74da8-5596-44c3-a0fa-6cadfe939825",
+      "slug": "against-the-fraud-daily-tuesday-november-10-2026-2026-11-10",
+      "title": "Against the Fraud Daily - Tuesday, November 10, 2026",
+      "date": "2026-11-10",
+      "duration_secs": 486,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-85c74da8-5596-44c3-a0fa-6cadfe939825.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-10-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-10.md",
+      "cases": [
+        {
+          "name": "Lab Genomics LLC / Leena Dalal",
+          "amount": "$1.25M",
+          "relator": "Sunil Wadhwa and Ken Newton",
+          "source": "https://www.justice.gov/usao-edca/pr/california-laboratory-and-its-owner-pay-125m-settle-allegations-kickbacks-marketers"
+        },
+        {
+          "name": "Quest Diagnostics",
+          "amount": "$13,014,576 plus interest",
+          "relator": "Gerard Abate, Lori Anderson, Douglas S. Rabin",
+          "source": "https://oig.hhs.gov/fraud/enforcement/quest-diagnostics-inc-pays-over-13-million-to-settle-allegations-of-providing-illegal-kickbacks-to-doctors-and-health-care-executives/"
+        }
+      ],
+      "practice_note": "Eleventh Circuit, United States ex rel. Zafirov v. Florida Medical Associates (Sep 1, 2026): qui tam provisions survive Appointments Clause challenge; Take Care and Vesting Clause challenges remanded"
     },
     {
-     "name": "Quest Diagnostics",
-     "amount": "$13,014,576 plus interest",
-     "relator": "Gerard Abate, Lori Anderson, Douglas S. Rabin",
-     "source": "https://oig.hhs.gov/fraud/enforcement/quest-diagnostics-inc-pays-over-13-million-to-settle-allegations-of-providing-illegal-kickbacks-to-doctors-and-health-care-executives/"
-    }
-   ],
-   "practice_note": "Eleventh Circuit, United States ex rel. Zafirov v. Florida Medical Associates (Sep 1, 2026): qui tam provisions survive Appointments Clause challenge; Take Care and Vesting Clause challenges remanded"
-  },
-  {
-   "guid": "ep-875e437a-ac79-4d38-a480-2f878d19e4ca",
-   "slug": "against-the-fraud-daily-wednesday-november-11-2026-2026-11-11",
-   "title": "Against the Fraud Daily - Wednesday, November 11, 2026",
-   "date": "2026-11-11",
-   "duration_secs": 471,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-875e437a-ac79-4d38-a480-2f878d19e4ca.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-11-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-11.md",
-   "cases": [
-    {
-     "name": "Premier Medical Group, P.C.",
-     "amount": "$2.8M",
-     "source": "https://www.justice.gov/usao-mdtn/pr/premier-medical-group-agrees-pay-28-million-resolve-false-claims-act-allegations-0"
-    }
-   ],
-   "practice_note": "DOJ/HHS Healthcare FCA Self-Disclosure Pilot Program (announced Oct 22, 2026): 1.25-1.6x base repayment, no admissions, no CIA, submissions due Apr 22, 2027; DOJ Civil Division head Brett Shumate resigned Nov 9, 2026"
-  },
-  {
-   "guid": "ep-c72f99b6-75f1-472c-8265-1aa0c9f2e61d",
-   "slug": "against-the-fraud-daily-thursday-november-12-2026-2026-11-12",
-   "title": "Against the Fraud Daily - Thursday, November 12, 2026",
-   "date": "2026-11-12",
-   "duration_secs": 523,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-c72f99b6-75f1-472c-8265-1aa0c9f2e61d.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-12-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-12.md",
-   "cases": [
-    {
-     "name": "Dana-Farber Cancer Institute",
-     "amount": "$15M",
-     "relator": "Sholto David",
-     "source": "https://www.justice.gov/usao-ma/media/1421001/dl"
-    }
-   ],
-   "practice_note": "M.D. Fla., U.S. ex rel. 3DQA LLC v. Theken Companies (2026): nine-figure qui tam dismissed with prejudice on first-to-file; FCA anti-retaliation provision does not cover post-employment conduct"
-  },
-  {
-   "guid": "ep-d4c8d617-359a-4cf2-a08e-d80ef9c1fb4f",
-   "slug": "against-the-fraud-daily-friday-november-13-2026-2026-11-13",
-   "title": "Against the Fraud Daily - Friday, November 13, 2026",
-   "date": "2026-11-13",
-   "duration_secs": 623,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-d4c8d617-359a-4cf2-a08e-d80ef9c1fb4f.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-13-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-13.md",
-   "cases": [
-    {
-     "name": "Clarksville Pain Institute / Pain Institute of Nashville",
-     "amount": "$1.5M",
-     "relator": "Krista Nicholson",
-     "source": "https://www.justice.gov/usao-mdtn/pr/clarksville-pain-management-clinic-and-managers-agree-pay-15-million-resolve-false"
-    }
-   ],
-   "practice_note": "Deloitte $21.5M Civil Rights Fraud Initiative settlement (Aug 25, 2026): organizational relator American Alliance for Equal Rights received $4.3M (20%); separate Florida and Indiana settlements $1.2M each; cooperation credit under DOJ guidelines"
-  },
-  {
-   "guid": "ep-ab4ee7f9-6def-4236-9850-80fd26ae1277",
-   "slug": "against-the-fraud-daily-saturday-november-14-2026-2026-11-14",
-   "title": "Against the Fraud Daily - Saturday, November 14, 2026",
-   "date": "2026-11-14",
-   "duration_secs": 627,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-ab4ee7f9-6def-4236-9850-80fd26ae1277.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-14-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-14.md",
-   "cases": [
-    {
-     "name": "Johnson Controls Inc. / Johnson Controls Fire Protection LP / Johnson Controls Security Solutions LLC",
-     "amount": "$5M",
-     "relator": "Kelly Vance and David Thomas",
-     "source": "https://www.justice.gov/opa/pr/hvac-supplier-johnson-controls-inc-and-two-subsidiaries-agree-pay-5-million-settle"
-    }
-   ],
-   "practice_note": "Fifth Circuit affirmed dismissal of Brook Jackson v. Ventavia Research Group / Pfizer / Icon qui tam (Nov 13, 2026, Judge Willett), applying Polansky v. Executive Health Resources (2023); government declined intervention Jan 2022, later moved to intervene to dismiss; lesson: DOJ dismissal latitude is wide, late-intervention fight is uphill, build the retaliation record early"
-  },
-  {
-   "guid": "ep-56c92b16-3428-438c-bd7b-48f8e7eba814",
-   "slug": "against-the-fraud-daily-sunday-november-15-2026-2026-11-15",
-   "title": "Against the Fraud Daily - Sunday, November 15, 2026",
-   "date": "2026-11-15",
-   "duration_secs": 536,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-56c92b16-3428-438c-bd7b-48f8e7eba814.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-15-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-15.md",
-   "cases": [
-    {
-     "name": "Michael Bacon (former Wells Fargo chief security officer) v. SEC",
-     "amount": "$179.5M preliminary award cut to $54.5M",
-     "relator": "Michael Bacon",
-     "source": "https://www.whistleblow.co/news/wells-fargo-whistleblower-sec-award-3rd-circuit/"
-    }
-   ],
-   "practice_note": "Smith v. U.S. Department of Housing and Urban Development (D. Guam Oct. 29, 2026): Jarkesy applied to the Administrative False Claims Act, $735,372 HUD award vacated on Seventh Amendment jury-trial grounds; single district court decision, not nationwide; FY2025 NDAA raised AFCA per-claim cap from $150K to $1M"
-  },
-  {
-   "guid": "ep-4cdd7b89-ad7a-411e-bd27-33defcf0a2a2",
-   "slug": "against-the-fraud-daily-monday-november-16-2026-2026-11-16",
-   "title": "Against the Fraud Daily - Monday, November 16, 2026",
-   "date": "2026-11-16",
-   "duration_secs": 600,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-4cdd7b89-ad7a-411e-bd27-33defcf0a2a2.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-16-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-16.md",
-   "cases": [
-    {
-     "name": "SEC fiscal 2026 enforcement results",
-     "amount": "$158M+ awarded to 65 whistleblowers; $731M returned to harmed investors",
-     "relator": null,
-     "source": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
+      "guid": "ep-875e437a-ac79-4d38-a480-2f878d19e4ca",
+      "slug": "against-the-fraud-daily-wednesday-november-11-2026-2026-11-11",
+      "title": "Against the Fraud Daily - Wednesday, November 11, 2026",
+      "date": "2026-11-11",
+      "duration_secs": 471,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-875e437a-ac79-4d38-a480-2f878d19e4ca.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-11-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-11.md",
+      "cases": [
+        {
+          "name": "Premier Medical Group, P.C.",
+          "amount": "$2.8M",
+          "source": "https://www.justice.gov/usao-mdtn/pr/premier-medical-group-agrees-pay-28-million-resolve-false-claims-act-allegations-0"
+        }
+      ],
+      "practice_note": "DOJ/HHS Healthcare FCA Self-Disclosure Pilot Program (announced Oct 22, 2026): 1.25-1.6x base repayment, no admissions, no CIA, submissions due Apr 22, 2027; DOJ Civil Division head Brett Shumate resigned Nov 9, 2026"
     },
     {
-     "name": "Interstate Group Holdings (Defense Personal Property Program survey scores)",
-     "amount": "$325,000",
-     "relator": null,
-     "source": "https://www.justice.gov/usao-sdil/pr/moving-company-agrees-settle-allegations-providing-payments-and-gifts-military-members"
-    }
-   ],
-   "practice_note": "CFTC final rule (effective Oct 16, 2026) creates a 30% presumption for whistleblower awards of $5M or less (~82% of meritorious awards expected to qualify); caution from Estate of Jennions v. CFTC (D.C. Cir. July 28, 2026) \u2014 award denial upheld where a media article, not the tip, prompted the investigation"
-  },
-  {
-   "guid": "ep-40a89f47-98ea-46b3-8230-6ec0cf81b1db",
-   "slug": "against-the-fraud-daily-tuesday-november-17-2026-2026-11-17",
-   "title": "Against the Fraud Daily - Tuesday, November 17, 2026",
-   "date": "2026-11-17",
-   "duration_secs": 538,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-40a89f47-98ea-46b3-8230-6ec0cf81b1db.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-17-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-17.md",
-   "cases": [
-    {
-     "name": "Firewater Investigations / Lancaster Services / Manhattan Legacy Services (PPP double-dip)",
-     "amount": "$1,005,186 combined",
-     "relator": null,
-     "source": "https://www.justice.gov/usao-edtn/pr/three-government-contractors-pay-more-1-million-following-improper-use-ppp-loans"
-    }
-   ],
-   "practice_note": "Eleventh Circuit, Brent Berry v. Native American Services Corp. (Nov 12, 2026): summary reversal of Appointments Clause dismissal under Zafirov; Take Care and Vesting Clause arguments remanded; five circuits have now rejected Appointments Clause challenges to qui tam"
-  },
-  {
-   "guid": "ep-f151354f-ccd2-40f5-9a6e-8839ae119a33",
-   "slug": "against-the-fraud-daily-wednesday-november-18-2026-2026-11-18",
-   "title": "Against the Fraud Daily - Wednesday, November 18, 2026",
-   "date": "2026-11-18",
-   "duration_secs": 643,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-f151354f-ccd2-40f5-9a6e-8839ae119a33.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-18-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-18.md",
-   "cases": [
-    {
-     "name": "InnovAge Holding Corp. (PACE senior care)",
-     "amount": "$36,000,000",
-     "relator": "Monita Poudyal and Karen Lapcewich ($4.5M share)",
-     "source": "https://www.justice.gov/usao-co/pr/pace-organization-innovage-agrees-pay-36m-resolve-false-claims-act-allegations-failing"
-    }
-   ],
-   "practice_note": "Capitated-payment FCA theory: the false claim is the fixed monthly PACE payment collected while care was not delivered; no corporate integrity agreement mentioned in the announcement; two relators/two suits resolved as one coordinated settlement with a single combined share"
-  },
-  {
-   "guid": "ep-9209e79a-f2d5-4b31-ad22-16b1359b75af",
-   "slug": "against-the-fraud-daily-thursday-november-19-2026-2026-11-19",
-   "title": "Against the Fraud Daily - Thursday, November 19, 2026",
-   "date": "2026-11-19",
-   "duration_secs": 590,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-9209e79a-f2d5-4b31-ad22-16b1359b75af.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-19-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-19.md",
-   "cases": [
-    {
-     "name": "Anthony \"Andy\" Sanborn / Win Win Win LLC d/b/a Concord Casino (EIDL pandemic relief misuse)",
-     "amount": "$510,454.44",
-     "relator": "No qui tam relator; government investigation (FBI, IRS-CI, U.S. Postal Inspection Service)",
-     "source": "https://www.justice.gov/usao-nh/pr/andy-sanborn-pays-more-500000-resolve-false-claims-act-allegations-related-misuse"
-    }
-   ],
-   "practice_note": "SEC Office of the Whistleblower FY2026 annual report: 29 awards reduced for unreasonable delay in reporting; 140 denials; Foot Locker $148,000 Rule 21F-17(a) penalty for separation agreements purporting to waive whistleblower award rights; 30% award presumption under Rule 21F-6(c) when maximum award is $5M or less"
-  },
-  {
-   "guid": "ep-6ebfaae8-7464-4003-8cda-db2b6884e7ac",
-   "slug": "against-the-fraud-daily-friday-november-20-2026-2026-11-20",
-   "title": "Against the Fraud Daily - Friday, November 20, 2026",
-   "date": "2026-11-20",
-   "duration_secs": 572,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-6ebfaae8-7464-4003-8cda-db2b6884e7ac.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-20-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-20.md",
-   "cases": [
-    {
-     "name": "Ruby Scott / Delta Home Health Care LLC (Medicare fraud fueled by illegal kickbacks)",
-     "amount": "$1,652,130.67 restitution",
-     "relator": "No qui tam relator; criminal prosecution (jury conviction May 2026, E.D. Mich.)",
-     "source": "https://www.justice.gov/opa/pr/michigan-home-health-care-agency-owner-sentenced-4-years-prison-16m-medicare-fraud-scheme"
-    }
-   ],
-   "practice_note": "Regeneron / Eylea causation: Nov 19, 2026 D. Mass. ruling that DOJ need not prove 'but-for' causation for the false-certification theory; Judge Saylor's but-for ruling for the AKS 'resulting from' theory affirmed by the First Circuit Feb 18, 2026 (joining Sixth and Eighth Circuits; Third Circuit requires only a 'link'); Judge Gorton's opposite conclusion in Teva; plead both theories"
-  },
-  {
-   "guid": "ep-e8c5cd3f-bd53-4b76-a88a-f732d1a22810",
-   "slug": "against-the-fraud-daily-saturday-november-21-2026-2026-11-21",
-   "title": "Against the Fraud Daily - Saturday, November 21, 2026",
-   "date": "2026-11-21",
-   "duration_secs": 674,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-e8c5cd3f-bd53-4b76-a88a-f732d1a22810.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-21-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-21.md",
-   "cases": [
-    {
-     "name": "Honeywell Aerospace Inc. ($2,042,518 cyber-FCA settlement; now a securities class action in D. Ariz., lead plaintiff deadline Nov 23, 2026)",
-     "amount": "$2,042,518 settlement",
-     "relator": "Rachel Tenney, former Honeywell IT employee; $375,823 share (qui tam No. 3:22-cv-129, W.D.N.C.)",
-     "source": "https://www.justice.gov/usao-wdnc/pr/honeywell-aerospace-inc-agrees-pay-over-2m-settle-false-claims-act-allegations-failing"
-    }
-   ],
-   "practice_note": "DOJ Justice Manual revisions Sept 18, 2026: Section 1-19.000 limits guidance-only FCA enforcement (enforcement must rest on legal requirements; guidance still usable for scienter, standards, and contractual incorporation); Section 4-4.111 requires a dismissal assessment in every declined qui tam and widens the first Granston factor from 'curbing meritless qui tams that facially lack merit' to 'curbing meritless qui tams'; DOJ may re-evaluate dismissal as litigation progresses"
-  },
-  {
-   "guid": "ep-00096791-9c2e-40c6-947a-99ead4cbc23f",
-   "slug": "against-the-fraud-daily-sunday-november-22-2026-2026-11-22",
-   "title": "Against the Fraud Daily - Sunday, November 22, 2026",
-   "date": "2026-11-22",
-   "duration_secs": 693,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-00096791-9c2e-40c6-947a-99ead4cbc23f.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-22-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-22.md",
-   "cases": [
-    {
-     "name": "Policing Insider Trading in Prediction Markets Act of 2026 (H.R. 11092, introduced Nov 20, 2026) \u2014 DOJ whistleblower program paying 10-30% of sanctions over $1M in prediction-market fraud cases; CFTC Nov 13 stay of Kalshi TRUMPSAY markets; Gabriel Perez CFTC settlement Aug 28, 2026 ($107,539.02 disgorgement + $65,000 penalty, three-year ban)",
-     "amount": "10-30% of sanctions over $1M (proposed awards); $172,539.02 total Perez sanctions",
-     "relator": "No relator; proposed DOJ program and CFTC enforcement action (Perez settled without admitting findings)",
-     "source": "https://casten.house.gov/media/press-releases/casten-and-lieu-introduce-bill-to-combat-insider-trading-on-prediction-markets"
-    }
-   ],
-   "practice_note": "SEC 90-day award-claim deadline under Rule 21F-10(b): Release No. 104614 (Jan 15, 2026, claim filed ~18 months late, medical-issues excuse rejected, 'extraordinary circumstances' narrowly defined) and Release No. 105185 (Apr 9, 2026, one claimant three months late, another timely but info did not lead to the action); 29 FY2026 awards cut for unreasonable delay in reporting"
-  },
-  {
-   "guid": "ep-588e5018-01a8-4eb1-8c6e-5f32fae911df",
-   "slug": "against-the-fraud-daily-monday-november-23-2026-2026-11-23",
-   "title": "Against the Fraud Daily - Monday, November 23, 2026",
-   "date": "2026-11-23",
-   "duration_secs": 749,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-588e5018-01a8-4eb1-8c6e-5f32fae911df.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-23-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-23.md",
-   "cases": [
-    {
-     "name": "Backward Hat Capital alleged $560M Ponzi scheme (SEC press release 2026-116 and CFTC release 9328-26, Nov 20, 2026) \u2014 AI-driven FX arbitrage pitch, ~$560M raised from 2,000+ investors since July 2022; $250M+ Ponzi-like payments, $220M+ to founders; fake audit reports by Joseph Anderson; FBI arrests Nov 18, 2026; SDNY criminal charges; Kevin B. Duff appointed temporary receiver Nov 20, 2026",
-     "amount": "~$560M raised (SEC); $550M+ (CFTC); $600M+ (SDNY prosecutors); $250M+ Ponzi payments; $220M+ to founders",
-     "relator": "No relator; parallel SEC/CFTC civil actions and SDNY criminal prosecution; allegations only, no liability findings",
-     "source": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering"
-    }
-   ],
-   "practice_note": "CFTC Whistleblower Program FY2026 annual report (Oct 2026): record year \u2014 awards totaling over $193M, 28 final award determinations (most in a single fiscal year), 1,695 Form TCRs, 107 WB-APPs, $580M awarded since 2014, $4.5B in penalties remitted to Treasury; 10 awards in Sept 2026 totaling $150M+; Sept 11, 2026 final rule presuming 30% award when max award is $5M or less; backlog being cleared; one determination (26-WB-25) reduced an award citing frivolous filings"
-  },
-  {
-   "guid": "ep-295df2e9-7c12-4c76-a8b9-52da16354d5b",
-   "slug": "against-the-fraud-daily-tuesday-november-24-2026-2026-11-24",
-   "title": "Against the Fraud Daily - Tuesday, November 24, 2026",
-   "date": "2026-11-24",
-   "duration_secs": 1002,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-295df2e9-7c12-4c76-a8b9-52da16354d5b.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-24-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-24.md",
-   "cases": [
-    {
-     "name": "CFTC grants over $11M in whistleblower awards to 14 whistleblowers (announced Nov 23, 2026, release 9329-26) \u2014 original information led to successful enforcement action against an extensive fraudulent scheme; CFTC does not disclose the specific action or exact award amounts (confidentiality); six additional claimants denied; $590M+ awarded since 2014, $5.1B+ in sanctions; record year for the program",
-     "amount": "Over $11M to 14 whistleblowers; $590M+ awarded since 2014; $5.1B+ in sanctions",
-     "relator": "14 CFTC whistleblowers, identities confidential; awards 10-30% of sanctions collected, paid from the Customer Protection Fund",
-     "source": "https://www.cftc.gov/PressRoom/PressReleases/9329-26"
+      "guid": "ep-c72f99b6-75f1-472c-8265-1aa0c9f2e61d",
+      "slug": "against-the-fraud-daily-thursday-november-12-2026-2026-11-12",
+      "title": "Against the Fraud Daily - Thursday, November 12, 2026",
+      "date": "2026-11-12",
+      "duration_secs": 523,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-c72f99b6-75f1-472c-8265-1aa0c9f2e61d.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-12-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-12.md",
+      "cases": [
+        {
+          "name": "Dana-Farber Cancer Institute",
+          "amount": "$15M",
+          "relator": "Sholto David",
+          "source": "https://www.justice.gov/usao-ma/media/1421001/dl"
+        }
+      ],
+      "practice_note": "M.D. Fla., U.S. ex rel. 3DQA LLC v. Theken Companies (2026): nine-figure qui tam dismissed with prejudice on first-to-file; FCA anti-retaliation provision does not cover post-employment conduct"
     },
     {
-     "name": "North Carolina tax return preparers sentenced in pandemic-relief fraud scheme (Nov 23, 2026) \u2014 Whitnee Leach (office manager) 43 months prison + $13,890,697 restitution; Jeannie Negron (preparer) 6 months + $73,514 restitution; business owner Nejlai Mitchell sentenced Oct 1 to 60 months; April 2022-May 2023 false returns claiming paid sick and family leave credits; ~$23.9M in fraudulent refund claims, IRS paid out more than $13M; part of DOJ/IRS National Tax Enforcement Surge (76 defendants, $490M+ intended loss)",
-     "amount": "~$23.9M in fraudulent refund claims; more than $13M paid out; $13,890,697 restitution (Leach)",
-     "relator": "No relator; criminal prosecution by the National Fraud Enforcement Division and IRS Criminal Investigation; all eight defendants pleaded guilty",
-     "source": "https://www.justice.gov/opa/pr/north-carolina-return-preparers-sentenced-prison-pandemic-relief-fraud-scheme"
+      "guid": "ep-d4c8d617-359a-4cf2-a08e-d80ef9c1fb4f",
+      "slug": "against-the-fraud-daily-friday-november-13-2026-2026-11-13",
+      "title": "Against the Fraud Daily - Friday, November 13, 2026",
+      "date": "2026-11-13",
+      "duration_secs": 623,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-d4c8d617-359a-4cf2-a08e-d80ef9c1fb4f.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-13-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-13.md",
+      "cases": [
+        {
+          "name": "Clarksville Pain Institute / Pain Institute of Nashville",
+          "amount": "$1.5M",
+          "relator": "Krista Nicholson",
+          "source": "https://www.justice.gov/usao-mdtn/pr/clarksville-pain-management-clinic-and-managers-agree-pay-15-million-resolve-false"
+        }
+      ],
+      "practice_note": "Deloitte $21.5M Civil Rights Fraud Initiative settlement (Aug 25, 2026): organizational relator American Alliance for Equal Rights received $4.3M (20%); separate Florida and Indiana settlements $1.2M each; cooperation credit under DOJ guidelines"
+    },
+    {
+      "guid": "ep-ab4ee7f9-6def-4236-9850-80fd26ae1277",
+      "slug": "against-the-fraud-daily-saturday-november-14-2026-2026-11-14",
+      "title": "Against the Fraud Daily - Saturday, November 14, 2026",
+      "date": "2026-11-14",
+      "duration_secs": 627,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-ab4ee7f9-6def-4236-9850-80fd26ae1277.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-14-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-14.md",
+      "cases": [
+        {
+          "name": "Johnson Controls Inc. / Johnson Controls Fire Protection LP / Johnson Controls Security Solutions LLC",
+          "amount": "$5M",
+          "relator": "Kelly Vance and David Thomas",
+          "source": "https://www.justice.gov/opa/pr/hvac-supplier-johnson-controls-inc-and-two-subsidiaries-agree-pay-5-million-settle"
+        }
+      ],
+      "practice_note": "Fifth Circuit affirmed dismissal of Brook Jackson v. Ventavia Research Group / Pfizer / Icon qui tam (Nov 13, 2026, Judge Willett), applying Polansky v. Executive Health Resources (2023); government declined intervention Jan 2022, later moved to intervene to dismiss; lesson: DOJ dismissal latitude is wide, late-intervention fight is uphill, build the retaliation record early"
+    },
+    {
+      "guid": "ep-56c92b16-3428-438c-bd7b-48f8e7eba814",
+      "slug": "against-the-fraud-daily-sunday-november-15-2026-2026-11-15",
+      "title": "Against the Fraud Daily - Sunday, November 15, 2026",
+      "date": "2026-11-15",
+      "duration_secs": 536,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-56c92b16-3428-438c-bd7b-48f8e7eba814.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-15-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-15.md",
+      "cases": [
+        {
+          "name": "Michael Bacon (former Wells Fargo chief security officer) v. SEC",
+          "amount": "$179.5M preliminary award cut to $54.5M",
+          "relator": "Michael Bacon",
+          "source": "https://www.whistleblow.co/news/wells-fargo-whistleblower-sec-award-3rd-circuit/"
+        }
+      ],
+      "practice_note": "Smith v. U.S. Department of Housing and Urban Development (D. Guam Oct. 29, 2026): Jarkesy applied to the Administrative False Claims Act, $735,372 HUD award vacated on Seventh Amendment jury-trial grounds; single district court decision, not nationwide; FY2025 NDAA raised AFCA per-claim cap from $150K to $1M"
+    },
+    {
+      "guid": "ep-4cdd7b89-ad7a-411e-bd27-33defcf0a2a2",
+      "slug": "against-the-fraud-daily-monday-november-16-2026-2026-11-16",
+      "title": "Against the Fraud Daily - Monday, November 16, 2026",
+      "date": "2026-11-16",
+      "duration_secs": 600,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-4cdd7b89-ad7a-411e-bd27-33defcf0a2a2.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-16-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-16.md",
+      "cases": [
+        {
+          "name": "SEC fiscal 2026 enforcement results",
+          "amount": "$158M+ awarded to 65 whistleblowers; $731M returned to harmed investors",
+          "relator": null,
+          "source": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
+        },
+        {
+          "name": "Interstate Group Holdings (Defense Personal Property Program survey scores)",
+          "amount": "$325,000",
+          "relator": null,
+          "source": "https://www.justice.gov/usao-sdil/pr/moving-company-agrees-settle-allegations-providing-payments-and-gifts-military-members"
+        }
+      ],
+      "practice_note": "CFTC final rule (effective Oct 16, 2026) creates a 30% presumption for whistleblower awards of $5M or less (~82% of meritorious awards expected to qualify); caution from Estate of Jennions v. CFTC (D.C. Cir. July 28, 2026) — award denial upheld where a media article, not the tip, prompted the investigation"
+    },
+    {
+      "guid": "ep-40a89f47-98ea-46b3-8230-6ec0cf81b1db",
+      "slug": "against-the-fraud-daily-tuesday-november-17-2026-2026-11-17",
+      "title": "Against the Fraud Daily - Tuesday, November 17, 2026",
+      "date": "2026-11-17",
+      "duration_secs": 538,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-40a89f47-98ea-46b3-8230-6ec0cf81b1db.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-17-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-17.md",
+      "cases": [
+        {
+          "name": "Firewater Investigations / Lancaster Services / Manhattan Legacy Services (PPP double-dip)",
+          "amount": "$1,005,186 combined",
+          "relator": null,
+          "source": "https://www.justice.gov/usao-edtn/pr/three-government-contractors-pay-more-1-million-following-improper-use-ppp-loans"
+        }
+      ],
+      "practice_note": "Eleventh Circuit, Brent Berry v. Native American Services Corp. (Nov 12, 2026): summary reversal of Appointments Clause dismissal under Zafirov; Take Care and Vesting Clause arguments remanded; five circuits have now rejected Appointments Clause challenges to qui tam"
+    },
+    {
+      "guid": "ep-f151354f-ccd2-40f5-9a6e-8839ae119a33",
+      "slug": "against-the-fraud-daily-wednesday-november-18-2026-2026-11-18",
+      "title": "Against the Fraud Daily - Wednesday, November 18, 2026",
+      "date": "2026-11-18",
+      "duration_secs": 643,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-f151354f-ccd2-40f5-9a6e-8839ae119a33.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-18-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-18.md",
+      "cases": [
+        {
+          "name": "InnovAge Holding Corp. (PACE senior care)",
+          "amount": "$36,000,000",
+          "relator": "Monita Poudyal and Karen Lapcewich ($4.5M share)",
+          "source": "https://www.justice.gov/usao-co/pr/pace-organization-innovage-agrees-pay-36m-resolve-false-claims-act-allegations-failing"
+        }
+      ],
+      "practice_note": "Capitated-payment FCA theory: the false claim is the fixed monthly PACE payment collected while care was not delivered; no corporate integrity agreement mentioned in the announcement; two relators/two suits resolved as one coordinated settlement with a single combined share"
+    },
+    {
+      "guid": "ep-9209e79a-f2d5-4b31-ad22-16b1359b75af",
+      "slug": "against-the-fraud-daily-thursday-november-19-2026-2026-11-19",
+      "title": "Against the Fraud Daily - Thursday, November 19, 2026",
+      "date": "2026-11-19",
+      "duration_secs": 590,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-9209e79a-f2d5-4b31-ad22-16b1359b75af.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-19-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-19.md",
+      "cases": [
+        {
+          "name": "Anthony \"Andy\" Sanborn / Win Win Win LLC d/b/a Concord Casino (EIDL pandemic relief misuse)",
+          "amount": "$510,454.44",
+          "relator": "No qui tam relator; government investigation (FBI, IRS-CI, U.S. Postal Inspection Service)",
+          "source": "https://www.justice.gov/usao-nh/pr/andy-sanborn-pays-more-500000-resolve-false-claims-act-allegations-related-misuse"
+        }
+      ],
+      "practice_note": "SEC Office of the Whistleblower FY2026 annual report: 29 awards reduced for unreasonable delay in reporting; 140 denials; Foot Locker $148,000 Rule 21F-17(a) penalty for separation agreements purporting to waive whistleblower award rights; 30% award presumption under Rule 21F-6(c) when maximum award is $5M or less"
+    },
+    {
+      "guid": "ep-6ebfaae8-7464-4003-8cda-db2b6884e7ac",
+      "slug": "against-the-fraud-daily-friday-november-20-2026-2026-11-20",
+      "title": "Against the Fraud Daily - Friday, November 20, 2026",
+      "date": "2026-11-20",
+      "duration_secs": 572,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-6ebfaae8-7464-4003-8cda-db2b6884e7ac.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-20-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-20.md",
+      "cases": [
+        {
+          "name": "Ruby Scott / Delta Home Health Care LLC (Medicare fraud fueled by illegal kickbacks)",
+          "amount": "$1,652,130.67 restitution",
+          "relator": "No qui tam relator; criminal prosecution (jury conviction May 2026, E.D. Mich.)",
+          "source": "https://www.justice.gov/opa/pr/michigan-home-health-care-agency-owner-sentenced-4-years-prison-16m-medicare-fraud-scheme"
+        }
+      ],
+      "practice_note": "Regeneron / Eylea causation: Nov 19, 2026 D. Mass. ruling that DOJ need not prove 'but-for' causation for the false-certification theory; Judge Saylor's but-for ruling for the AKS 'resulting from' theory affirmed by the First Circuit Feb 18, 2026 (joining Sixth and Eighth Circuits; Third Circuit requires only a 'link'); Judge Gorton's opposite conclusion in Teva; plead both theories"
+    },
+    {
+      "guid": "ep-e8c5cd3f-bd53-4b76-a88a-f732d1a22810",
+      "slug": "against-the-fraud-daily-saturday-november-21-2026-2026-11-21",
+      "title": "Against the Fraud Daily - Saturday, November 21, 2026",
+      "date": "2026-11-21",
+      "duration_secs": 674,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-e8c5cd3f-bd53-4b76-a88a-f732d1a22810.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-21-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-21.md",
+      "cases": [
+        {
+          "name": "Honeywell Aerospace Inc. ($2,042,518 cyber-FCA settlement; now a securities class action in D. Ariz., lead plaintiff deadline Nov 23, 2026)",
+          "amount": "$2,042,518 settlement",
+          "relator": "Rachel Tenney, former Honeywell IT employee; $375,823 share (qui tam No. 3:22-cv-129, W.D.N.C.)",
+          "source": "https://www.justice.gov/usao-wdnc/pr/honeywell-aerospace-inc-agrees-pay-over-2m-settle-false-claims-act-allegations-failing"
+        }
+      ],
+      "practice_note": "DOJ Justice Manual revisions Sept 18, 2026: Section 1-19.000 limits guidance-only FCA enforcement (enforcement must rest on legal requirements; guidance still usable for scienter, standards, and contractual incorporation); Section 4-4.111 requires a dismissal assessment in every declined qui tam and widens the first Granston factor from 'curbing meritless qui tams that facially lack merit' to 'curbing meritless qui tams'; DOJ may re-evaluate dismissal as litigation progresses"
+    },
+    {
+      "guid": "ep-00096791-9c2e-40c6-947a-99ead4cbc23f",
+      "slug": "against-the-fraud-daily-sunday-november-22-2026-2026-11-22",
+      "title": "Against the Fraud Daily - Sunday, November 22, 2026",
+      "date": "2026-11-22",
+      "duration_secs": 693,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-00096791-9c2e-40c6-947a-99ead4cbc23f.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-22-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-22.md",
+      "cases": [
+        {
+          "name": "Policing Insider Trading in Prediction Markets Act of 2026 (H.R. 11092, introduced Nov 20, 2026) — DOJ whistleblower program paying 10-30% of sanctions over $1M in prediction-market fraud cases; CFTC Nov 13 stay of Kalshi TRUMPSAY markets; Gabriel Perez CFTC settlement Aug 28, 2026 ($107,539.02 disgorgement + $65,000 penalty, three-year ban)",
+          "amount": "10-30% of sanctions over $1M (proposed awards); $172,539.02 total Perez sanctions",
+          "relator": "No relator; proposed DOJ program and CFTC enforcement action (Perez settled without admitting findings)",
+          "source": "https://casten.house.gov/media/press-releases/casten-and-lieu-introduce-bill-to-combat-insider-trading-on-prediction-markets"
+        }
+      ],
+      "practice_note": "SEC 90-day award-claim deadline under Rule 21F-10(b): Release No. 104614 (Jan 15, 2026, claim filed ~18 months late, medical-issues excuse rejected, 'extraordinary circumstances' narrowly defined) and Release No. 105185 (Apr 9, 2026, one claimant three months late, another timely but info did not lead to the action); 29 FY2026 awards cut for unreasonable delay in reporting"
+    },
+    {
+      "guid": "ep-588e5018-01a8-4eb1-8c6e-5f32fae911df",
+      "slug": "against-the-fraud-daily-monday-november-23-2026-2026-11-23",
+      "title": "Against the Fraud Daily - Monday, November 23, 2026",
+      "date": "2026-11-23",
+      "duration_secs": 749,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-588e5018-01a8-4eb1-8c6e-5f32fae911df.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-23-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-23.md",
+      "cases": [
+        {
+          "name": "Backward Hat Capital alleged $560M Ponzi scheme (SEC press release 2026-116 and CFTC release 9328-26, Nov 20, 2026) — AI-driven FX arbitrage pitch, ~$560M raised from 2,000+ investors since July 2022; $250M+ Ponzi-like payments, $220M+ to founders; fake audit reports by Joseph Anderson; FBI arrests Nov 18, 2026; SDNY criminal charges; Kevin B. Duff appointed temporary receiver Nov 20, 2026",
+          "amount": "~$560M raised (SEC); $550M+ (CFTC); $600M+ (SDNY prosecutors); $250M+ Ponzi payments; $220M+ to founders",
+          "relator": "No relator; parallel SEC/CFTC civil actions and SDNY criminal prosecution; allegations only, no liability findings",
+          "source": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering"
+        }
+      ],
+      "practice_note": "CFTC Whistleblower Program FY2026 annual report (Oct 2026): record year — awards totaling over $193M, 28 final award determinations (most in a single fiscal year), 1,695 Form TCRs, 107 WB-APPs, $580M awarded since 2014, $4.5B in penalties remitted to Treasury; 10 awards in Sept 2026 totaling $150M+; Sept 11, 2026 final rule presuming 30% award when max award is $5M or less; backlog being cleared; one determination (26-WB-25) reduced an award citing frivolous filings"
+    },
+    {
+      "guid": "ep-295df2e9-7c12-4c76-a8b9-52da16354d5b",
+      "slug": "against-the-fraud-daily-tuesday-november-24-2026-2026-11-24",
+      "title": "Against the Fraud Daily - Tuesday, November 24, 2026",
+      "date": "2026-11-24",
+      "duration_secs": 1002,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-295df2e9-7c12-4c76-a8b9-52da16354d5b.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-24-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-24.md",
+      "cases": [
+        {
+          "name": "CFTC grants over $11M in whistleblower awards to 14 whistleblowers (announced Nov 23, 2026, release 9329-26) — original information led to successful enforcement action against an extensive fraudulent scheme; CFTC does not disclose the specific action or exact award amounts (confidentiality); six additional claimants denied; $590M+ awarded since 2014, $5.1B+ in sanctions; record year for the program",
+          "amount": "Over $11M to 14 whistleblowers; $590M+ awarded since 2014; $5.1B+ in sanctions",
+          "relator": "14 CFTC whistleblowers, identities confidential; awards 10-30% of sanctions collected, paid from the Customer Protection Fund",
+          "source": "https://www.cftc.gov/PressRoom/PressReleases/9329-26"
+        },
+        {
+          "name": "North Carolina tax return preparers sentenced in pandemic-relief fraud scheme (Nov 23, 2026) — Whitnee Leach (office manager) 43 months prison + $13,890,697 restitution; Jeannie Negron (preparer) 6 months + $73,514 restitution; business owner Nejlai Mitchell sentenced Oct 1 to 60 months; April 2022-May 2023 false returns claiming paid sick and family leave credits; ~$23.9M in fraudulent refund claims, IRS paid out more than $13M; part of DOJ/IRS National Tax Enforcement Surge (76 defendants, $490M+ intended loss)",
+          "amount": "~$23.9M in fraudulent refund claims; more than $13M paid out; $13,890,697 restitution (Leach)",
+          "relator": "No relator; criminal prosecution by the National Fraud Enforcement Division and IRS Criminal Investigation; all eight defendants pleaded guilty",
+          "source": "https://www.justice.gov/opa/pr/north-carolina-return-preparers-sentenced-prison-pandemic-relief-fraud-scheme"
+        }
+      ],
+      "practice_note": "Fifth Circuit, United States ex rel. Jackson v. Ventavia Research Group (No. 24-40564, Nov 13, 2026) — dismissal affirmed under Polansky, but Judge Willett's concurrence raises 'serious constitutional pause' over qui tam under Article II (Appointments Clause 'closer question'; Vesting and Take Care Clauses 'a distinct — and stronger — problem'); Chief Judge Elrod: concerns 'no doubt en banc worthy,' 'it may be time for our en banc court to revisit' Riley v. St. Luke's (5th Cir. 2001 en banc); Judges Ho and Duncan raised similar concerns in 2025 — four Fifth Circuit judges now questioning; overturning Riley would create a circuit split and the issue is likely to reach the Supreme Court"
+    },
+    {
+      "guid": "ep-dc294f56-10d6-4a37-88d4-ad722f59bc7a",
+      "slug": "against-the-fraud-daily-wednesday-november-25-2026-2026-11-25",
+      "title": "Against the Fraud Daily - Wednesday, November 25, 2026",
+      "date": "2026-11-25",
+      "duration_secs": 815,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-dc294f56-10d6-4a37-88d4-ad722f59bc7a.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-25-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-25.md",
+      "cases": [
+        {
+          "name": "DOJ largest-ever anti-scam crackdown (announced Nov 24, 2026) — 400+ cases against 800+ defendants in 85 federal districts; $8B+ in intended victim losses recovered; Operation Blackout seized nearly $17B, 14,000+ devices, 29+ scam compounds dismantled; Operation Level Up prevented $143M+ in losses since March 6, 2026; Georgia prison jury-duty scam, Mexican list broker, Southeast Asian crypto scam centers charged; Executive Order 14390",
+          "amount": "$8B+ in intended victim losses recovered; nearly $17B seized/restrained by Operation Blackout",
+          "relator": "Criminal enforcement surge; no qui tam relator announced",
+          "source": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants"
+        },
+        {
+          "name": "AcuMedGroup LLC and owner Cecilia Rusnak agree to pay $500,000 to resolve FCA allegations (announced Nov 24, 2026, M.D. Fla.) — submitted inflated VA acupuncture claims that did not meet minimum time requirements, Feb 24, 2016–Mar 10, 2022; allegations only, no determination of liability",
+          "amount": "$500,000",
+          "relator": "No relator announced; investigated by USAO M.D. Fla. and VA OIG",
+          "source": "https://www.justice.gov/usao-mdfl/pr/acupuncture-provider-agrees-pay-500000-settle-false-claims-act-liability"
+        },
+        {
+          "name": "First Circuit revives PPP qui tam suit against private equity firms, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) — reversal of D.R.I. summary judgment on the FCA public disclosure bar; Judge Seth R. Aframe writing; PPP loan misrepresentation allegations; New Harbor entities did not themselves apply for PPP loans",
+          "amount": "No amount stated; PPP loan misrepresentation allegations",
+          "relator": "James R. Berkley",
+          "source": "https://news.bloombergtax.com/health-law-and-business/whistleblower-gets-revival-of-suit-against-private-equity-firms"
+        },
+        {
+          "name": "Mortgage document fraud guilty pleas (Nov 23–24, 2026, M.D. Fla.) — Richard Exposito, licensed loan officer, conspiracy to commit bank fraud with document preparer Kiomy Torres (Dec 2016–Jul 2019); Desean Ford, Jacksonville broker, false statement on VA-guaranteed loan with altered bank statements (+$90,000) and fake pay stubs/W-2s; loan funded $245,520, forfeiture $245,520; payroll company subpoena showed no record",
+          "amount": "$245,520 loan funded and forfeited (Ford)",
+          "relator": "Criminal pleas; no relator",
+          "source": "https://www.justice.gov/usao-mdfl/pr/licensed-mortgage-loan-officer-pleads-guilty-bank-fraud-conspiracy"
+        }
+      ],
+      "practice_note": "First Circuit, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) — reversal of D.R.I. summary judgment (Chief Judge John J. McConnell Jr., Sept 26, 2025) that had held the suit barred by the FCA public disclosure bar; Judge Seth R. Aframe writing; bar turns on whether allegations are substantially similar to publicly disclosed information, with an original-source exception; contrast Golden Empire Mortgage (E.D. Cal. Aug 5, 2024), where a relator relying only on PandemicOversight.gov data was barred; repackaging a public database is likely barred, independent investigation plus non-public detail can survive"
+    },
+    {
+      "guid": "ep-70cc666c-fb6a-4557-ba43-9141c3333cf1",
+      "slug": "against-the-fraud-daily-thursday-november-26-2026-2026-11-26",
+      "title": "Against the Fraud Daily - Thursday, November 26, 2026",
+      "date": "2026-11-26",
+      "duration_secs": 660,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-70cc666c-fb6a-4557-ba43-9141c3333cf1.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-26-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-26.md",
+      "cases": [
+        {
+          "name": "United States ex rel. Veteran Marketing LLC v. Respironics, Inc. (Philips RS North America LLC), No. 2:21-cv-00853, E.D. Pa. — Chief Judge Wendy Beetlestone opinion issued Nov 24, 2026 (reported Nov 25): motion to dismiss denied in part, granted in part; whistleblower alleged Chinese-made CPAP masks and machines sold to the VA in violation of the Buy American Act and Trade Agreements Act; masks shipped from China in boxes marked 'Made in China,' 10-15 seconds of hand assembly, repackaged without the marking; CPAP blowers also made in China; sales via distributor First Nation Group LLC under FSS contracts (2010 and Dec 2018); 2018 emails warned not to ship samples directly to the VA because of 'Made in China' packaging; counts under 3729(a)(1)(A)-(B) survive under Rule 9(b); reverse false claim count (a)(1)(G) dismissed as redundant; government declined to intervene; allegations only",
+          "amount": "No amount stated; Buy American / Trade Agreements Act qui tam, motion to dismiss stage",
+          "relator": "Veteran Marketing LLC",
+          "source": "https://www.law360.co.uk/health/articles/2559912/philips-can-t-escape-fca-suit-over-chinese-made-cpaps"
+        },
+        {
+          "name": "YDH Express Inc. / YDH Int'l Inc. / owner Yizhao Hou agree to pay $300,000 and permanently cease using USPS (court-ordered settlement Nov 25, 2026, E.D.N.Y.) — shipped thousands of parcels bearing counterfeit USPS labels received from customers in China; suit filed May 2025; TRO May 16, 2025, preliminary injunction June 6, 2025; docket 25-CV-2719 (NCM); allegations only, no determination of liability",
+          "amount": "$300,000",
+          "relator": "No relator; government enforcement action (USAO E.D.N.Y., USPIS, CBP)",
+          "source": "https://www.justice.gov/usao-edny/pr/district-court-orders-queens-based-logistics-company-affiliate-and-their-owner-pay"
+        },
+        {
+          "name": "Article II constitutionality of qui tam — Beetlestone rejects Philips' Appointments Clause challenge (relators hold no continuing position, cannot be replaced; relies on Zafirov, 11th Cir. 2026) and Take Care/Vesting challenge (qui tam history plus government retained control: intervene, dismiss, veto settlement, stay discovery); contrast Fifth Circuit Jackson v. Ventavia concurrence (Nov 13, 2026, Judge Willett)",
+          "amount": "No amount stated; constitutional ruling in motion-to-dismiss opinion",
+          "relator": "Veteran Marketing LLC (constitutional challenge raised by defendant Philips)",
+          "source": "https://app.midpage.ai/document/veteran-marketing-llc-v-respironics--1201ef29-5213-4b71-897d-b32aa1ffd67e"
+        }
+      ],
+      "practice_note": "E.D. Pa., United States ex rel. Veteran Marketing LLC v. Respironics, Inc. (Philips), Chief Judge Wendy Beetlestone, opinion Nov 24, 2026 — rejects Article II constitutional challenge to qui tam: Appointments Clause (relators hold no continuing position, cannot be replaced by another relator; relies on Zafirov, 11th Cir. 2026) and Take Care/Vesting Clauses (qui tam history before and after the founding plus government retained control — intervene, dismiss, veto settlement, stay discovery); contrast Fifth Circuit Jackson v. Ventavia concurrence (Nov 13, 2026, Judge Willett, 'serious constitutional pause'; Chief Judge Elrod: en banc worthy); expect the Article II motion in declined qui tam cases and prepare the answer before filing"
+    },
+    {
+      "guid": "ep-51933fc1-f855-4785-b5cc-0809aa87562c",
+      "slug": "against-the-fraud-daily-friday-november-27-2026-2026-11-27",
+      "title": "Against the Fraud Daily - Friday, November 27, 2026",
+      "date": "2026-11-27",
+      "duration_secs": 779,
+      "hosts": [
+        "Alex",
+        "Jordan"
+      ],
+      "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-51933fc1-f855-4785-b5cc-0809aa87562c.mp3",
+      "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
+      "transcript_path": "transcripts/2026-11-27-against-the-fraud-daily.md",
+      "notes_path": "episodes/2026-11-27.md",
+      "cases": [
+        {
+          "name": "NovaTech / NovaTechFx crypto Ponzi judgment — NY Supreme Court Justice Anar Rathod Patel signed monetary judgment Nov 24, 2026 (announced by NY AG Letitia James Nov 25), ordering founders Cynthia and Eddy Petion plus Nova Tech Ltd., NovaTech Advisors LLC, NovaPay LLC to pay $1,367,023,585 jointly and severally ($1,134,549,691 disgorgement + $232,473,894 prejudgment interest at 9%); hundreds of thousands of investors worldwide incl. 11,000 New Yorkers; targeted Haitian communities via Creole-language promotion and faith/community groups; promised 2-4% weekly returns; investors deposited $1,160,544,294 in crypto into NovaTech wallets; SEC Aug 2024 complaint alleged $650M+ from 200,000+ investors 2019-2023, only a small fraction traded; suit filed June 6, 2024 under Martin Act + Executive Law 63(12); default judgment Aug 4, 2025 after Petions fled, permanent industry ban; judgment is an order to pay, not money recovered; founders' whereabouts unknown",
+          "amount": "$1,367,023,585",
+          "relator": "No relator; New York Attorney General enforcement action",
+          "source": "https://ag.ny.gov/press-release/2026/attorney-general-james-wins-13-billion-judgment-against-crypto-scammers-who"
+        },
+        {
+          "name": "Keith Williams (48) and son Jamari Lewis (28) of West Hempstead, NY pleaded guilty in E.D.N.Y. in $600M COVID tax-credit scheme (DOJ announced Nov 24, 2026) — 8,000+ false employment tax returns claiming Employee Retention Credit and paid sick/family leave credit via purported credit repair business Credit Reset; IRS paid ~$46M; restitution $46,756,084.89; forfeiture $4,848,998.44 (Williams) and $671,511.11 (Lewis); Williams pleaded Nov 24 (conspiracy + wire fraud, up to 5 + 30 years), Lewis pleaded Nov 19 (wire fraud, up to 30 years), Lewis sentencing April 19, 2027; investigated by IRS-CI, USPIS, HSI",
+          "amount": "$600M sought; ~$46M paid by IRS",
+          "relator": "No relator; DOJ criminal prosecution",
+          "source": "https://www.justice.gov/opa/pr/new-york-father-and-son-plead-guilty-600m-covid-tax-fraud-scheme"
+        },
+        {
+          "name": "CFTC Notice of Covered Action No. 2026-008 (posted Nov 24, 2026) — 90-day whistleblower award-claim window for Staryk/Magestic options fraud case, Form WB-APP claims due Feb 22, 2027; underlying default judgment Sept 14, 2026 (D. Conn. 24-CV-1561): $547,616 restitution + $5,907,720 civil penalty, 26 retail clients, ~$600,000 taken 2021-2022, trading never happened, Staryk already permanently banned; relief defendants Solerti-Coto and Global Financial Institution LLC disgorged $110,509.86; awards 10-30% of sanctions collected; clock starts at notice date, not judgment date",
+          "amount": "$6,455,336 court-ordered total (restitution + penalty)",
+          "relator": "Whistleblower award-claim window; no relator named",
+          "source": "https://www.whistleblower.gov/notices/2026-008"
+        },
+        {
+          "name": "FBI sting in United States v. Juan Ricardo Palacio Escobar (D.R.I. No. 1:26-cr-00096) — RansomwareHelp co-founder/CTO indicted Nov 18, 2026 on three wire fraud counts (announced Nov 25), allegedly secretly paid ransomware actors and billed victims more, scheme Oct 2020-June 2026; June 2026 FBI undercover operation posed as both victim company and ransomware gang; Palacio paid ~$6,000 in Bitcoin for decryption key, billed fake victim ~$13,260 + $2,750 diagnostic fee ($16,010 total); arrested Oct 22 in Las Vegas, released on pretrial conditions Nov 20; up to 20 years per count; indictment is allegation only",
+          "amount": "~$6,000 paid vs ~$16,010 billed in the sting; scheme proceeds used to buy Florida properties",
+          "relator": "No relator; DOJ criminal prosecution",
+          "source": "https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks"
+        }
+      ],
+      "practice_note": "CFTC Notice of Covered Action No. 2026-008 (posted Nov 24, 2026) — 90-day whistleblower award-claim window for the Staryk/Magestic options fraud case; Form WB-APP claims due Feb 22, 2027; awards 10-30% of sanctions collected; the clock starts at the notice date, not the September 14, 2026 default judgment date; the notice is not a determination that a tip led to the action or that an award will be paid; same discipline as the SEC 90-day deadline — file the application tying the client's information to the enforcement action before the deadline"
     }
-   ],
-   "practice_note": "Fifth Circuit, United States ex rel. Jackson v. Ventavia Research Group (No. 24-40564, Nov 13, 2026) \u2014 dismissal affirmed under Polansky, but Judge Willett's concurrence raises 'serious constitutional pause' over qui tam under Article II (Appointments Clause 'closer question'; Vesting and Take Care Clauses 'a distinct \u2014 and stronger \u2014 problem'); Chief Judge Elrod: concerns 'no doubt en banc worthy,' 'it may be time for our en banc court to revisit' Riley v. St. Luke's (5th Cir. 2001 en banc); Judges Ho and Duncan raised similar concerns in 2025 \u2014 four Fifth Circuit judges now questioning; overturning Riley would create a circuit split and the issue is likely to reach the Supreme Court"
-  },
-  {
-   "guid": "ep-dc294f56-10d6-4a37-88d4-ad722f59bc7a",
-   "slug": "against-the-fraud-daily-wednesday-november-25-2026-2026-11-25",
-   "title": "Against the Fraud Daily - Wednesday, November 25, 2026",
-   "date": "2026-11-25",
-   "duration_secs": 815,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-dc294f56-10d6-4a37-88d4-ad722f59bc7a.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-25-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-25.md",
-   "cases": [
-    {
-     "name": "DOJ largest-ever anti-scam crackdown (announced Nov 24, 2026) \u2014 400+ cases against 800+ defendants in 85 federal districts; $8B+ in intended victim losses recovered; Operation Blackout seized nearly $17B, 14,000+ devices, 29+ scam compounds dismantled; Operation Level Up prevented $143M+ in losses since March 6, 2026; Georgia prison jury-duty scam, Mexican list broker, Southeast Asian crypto scam centers charged; Executive Order 14390",
-     "amount": "$8B+ in intended victim losses recovered; nearly $17B seized/restrained by Operation Blackout",
-     "relator": "Criminal enforcement surge; no qui tam relator announced",
-     "source": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants"
-    },
-    {
-     "name": "AcuMedGroup LLC and owner Cecilia Rusnak agree to pay $500,000 to resolve FCA allegations (announced Nov 24, 2026, M.D. Fla.) \u2014 submitted inflated VA acupuncture claims that did not meet minimum time requirements, Feb 24, 2016\u2013Mar 10, 2022; allegations only, no determination of liability",
-     "amount": "$500,000",
-     "relator": "No relator announced; investigated by USAO M.D. Fla. and VA OIG",
-     "source": "https://www.justice.gov/usao-mdfl/pr/acupuncture-provider-agrees-pay-500000-settle-false-claims-act-liability"
-    },
-    {
-     "name": "First Circuit revives PPP qui tam suit against private equity firms, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) \u2014 reversal of D.R.I. summary judgment on the FCA public disclosure bar; Judge Seth R. Aframe writing; PPP loan misrepresentation allegations; New Harbor entities did not themselves apply for PPP loans",
-     "amount": "No amount stated; PPP loan misrepresentation allegations",
-     "relator": "James R. Berkley",
-     "source": "https://news.bloombergtax.com/health-law-and-business/whistleblower-gets-revival-of-suit-against-private-equity-firms"
-    },
-    {
-     "name": "Mortgage document fraud guilty pleas (Nov 23\u201324, 2026, M.D. Fla.) \u2014 Richard Exposito, licensed loan officer, conspiracy to commit bank fraud with document preparer Kiomy Torres (Dec 2016\u2013Jul 2019); Desean Ford, Jacksonville broker, false statement on VA-guaranteed loan with altered bank statements (+$90,000) and fake pay stubs/W-2s; loan funded $245,520, forfeiture $245,520; payroll company subpoena showed no record",
-     "amount": "$245,520 loan funded and forfeited (Ford)",
-     "relator": "Criminal pleas; no relator",
-     "source": "https://www.justice.gov/usao-mdfl/pr/licensed-mortgage-loan-officer-pleads-guilty-bank-fraud-conspiracy"
-    }
-   ],
-   "practice_note": "First Circuit, United States ex rel. James R. Berkley v. Ocean State / New Harbor Capital (Nov 24, 2026) \u2014 reversal of D.R.I. summary judgment (Chief Judge John J. McConnell Jr., Sept 26, 2025) that had held the suit barred by the FCA public disclosure bar; Judge Seth R. Aframe writing; bar turns on whether allegations are substantially similar to publicly disclosed information, with an original-source exception; contrast Golden Empire Mortgage (E.D. Cal. Aug 5, 2024), where a relator relying only on PandemicOversight.gov data was barred; repackaging a public database is likely barred, independent investigation plus non-public detail can survive"
-  },
-  {
-   "guid": "ep-70cc666c-fb6a-4557-ba43-9141c3333cf1",
-   "slug": "against-the-fraud-daily-thursday-november-26-2026-2026-11-26",
-   "title": "Against the Fraud Daily - Thursday, November 26, 2026",
-   "date": "2026-11-26",
-   "duration_secs": 660,
-   "hosts": [
-    "Alex",
-    "Jordan"
-   ],
-   "audio_url": "https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-70cc666c-fb6a-4557-ba43-9141c3333cf1.mp3",
-   "feed_url": "https://muse.ai/podcasts/feed/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab",
-   "transcript_path": "transcripts/2026-11-26-against-the-fraud-daily.md",
-   "notes_path": "episodes/2026-11-26.md",
-   "cases": [
-    {
-     "name": "United States ex rel. Veteran Marketing LLC v. Respironics, Inc. (Philips RS North America LLC), No. 2:21-cv-00853, E.D. Pa. \u2014 Chief Judge Wendy Beetlestone opinion issued Nov 24, 2026 (reported Nov 25): motion to dismiss denied in part, granted in part; whistleblower alleged Chinese-made CPAP masks and machines sold to the VA in violation of the Buy American Act and Trade Agreements Act; masks shipped from China in boxes marked 'Made in China,' 10-15 seconds of hand assembly, repackaged without the marking; CPAP blowers also made in China; sales via distributor First Nation Group LLC under FSS contracts (2010 and Dec 2018); 2018 emails warned not to ship samples directly to the VA because of 'Made in China' packaging; counts under 3729(a)(1)(A)-(B) survive under Rule 9(b); reverse false claim count (a)(1)(G) dismissed as redundant; government declined to intervene; allegations only",
-     "amount": "No amount stated; Buy American / Trade Agreements Act qui tam, motion to dismiss stage",
-     "relator": "Veteran Marketing LLC",
-     "source": "https://www.law360.co.uk/health/articles/2559912/philips-can-t-escape-fca-suit-over-chinese-made-cpaps"
-    },
-    {
-     "name": "YDH Express Inc. / YDH Int'l Inc. / owner Yizhao Hou agree to pay $300,000 and permanently cease using USPS (court-ordered settlement Nov 25, 2026, E.D.N.Y.) \u2014 shipped thousands of parcels bearing counterfeit USPS labels received from customers in China; suit filed May 2025; TRO May 16, 2025, preliminary injunction June 6, 2025; docket 25-CV-2719 (NCM); allegations only, no determination of liability",
-     "amount": "$300,000",
-     "relator": "No relator; government enforcement action (USAO E.D.N.Y., USPIS, CBP)",
-     "source": "https://www.justice.gov/usao-edny/pr/district-court-orders-queens-based-logistics-company-affiliate-and-their-owner-pay"
-    },
-    {
-     "name": "Article II constitutionality of qui tam \u2014 Beetlestone rejects Philips' Appointments Clause challenge (relators hold no continuing position, cannot be replaced; relies on Zafirov, 11th Cir. 2026) and Take Care/Vesting challenge (qui tam history plus government retained control: intervene, dismiss, veto settlement, stay discovery); contrast Fifth Circuit Jackson v. Ventavia concurrence (Nov 13, 2026, Judge Willett)",
-     "amount": "No amount stated; constitutional ruling in motion-to-dismiss opinion",
-     "relator": "Veteran Marketing LLC (constitutional challenge raised by defendant Philips)",
-     "source": "https://app.midpage.ai/document/veteran-marketing-llc-v-respironics--1201ef29-5213-4b71-897d-b32aa1ffd67e"
-    }
-   ],
-   "practice_note": "E.D. Pa., United States ex rel. Veteran Marketing LLC v. Respironics, Inc. (Philips), Chief Judge Wendy Beetlestone, opinion Nov 24, 2026 \u2014 rejects Article II constitutional challenge to qui tam: Appointments Clause (relators hold no continuing position, cannot be replaced by another relator; relies on Zafirov, 11th Cir. 2026) and Take Care/Vesting Clauses (qui tam history before and after the founding plus government retained control \u2014 intervene, dismiss, veto settlement, stay discovery); contrast Fifth Circuit Jackson v. Ventavia concurrence (Nov 13, 2026, Judge Willett, 'serious constitutional pause'; Chief Judge Elrod: en banc worthy); expect the Article II motion in declined qui tam cases and prepare the answer before filing"
-  }
- ]
+  ]
 }
