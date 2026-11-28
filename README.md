@@ -44,3 +44,4 @@ New episodes publish every morning (~7:36 AM CT) and are added to this repo the 
 
 - Every settlement discussed is allegations only unless a court or agency has determined otherwise; there has been no determination of liability in a civil settlement.
 - Facts are verified against 2+ reputable sources (DOJ releases, major news outlets, court records). No sealed, confidential, or non-public case material is used.
+| 2026-11-28 | Against the Fraud Daily - Saturday, November 28, 2026 | 13:01 | [Audio](https://muse.ai/podcasts/media/1296615416870816/5da72c16-813d-4986-a7f7-014d18b94fab/ep-93988c34-d097-4e7a-b985-9a8230efa6d6.mp3) · [Notes](episodes/2026-11-28.md) · [Transcript](transcripts/2026-11-28-against-the-fraud-daily.md) |
